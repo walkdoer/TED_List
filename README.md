@@ -32,6 +32,12 @@
 > 
 > 我们当前的教育模式是基于工业化，制造业的，这种教育模式是线性的，里面是循规蹈矩和批量生产的人。要改变为基于农业生产的原理的模式，人类的发展不是一个工业制造的过程，而是一个有机的过程。你无法预知人类的发展，你只能像农民一样建造使他们开花结果的环境
 
+###[提姆·费里斯： 无所畏惧，学无止境](http://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything.html)
+`启发, 学习` *2014年01月25日00:05:06*
+
+> Fear is your friend, Fear is an indicator. Sometimes it shows you what you shouldn't do more often than not it shows you exactly what you should do. 
+> 
+> What's the worst that can happen?
 
 
 
