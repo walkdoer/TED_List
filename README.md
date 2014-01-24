@@ -3,7 +3,7 @@
 ----------------------
 
 ###[Ken Robinson:认为学校扼杀创造力](http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html) 
-`教育,创新,启发` *2014-01-20 23:45:14*
+`教育,创新,启发` *2014-01-20 23:45:14* *****
 
 > Not prepare to be wrong, you'll never come up with anything ORIGINAL.
 > 
@@ -20,7 +20,7 @@
 
 
 ###[Ken Robinson:展开学习革命](http://v.youku.com/v_show/id_XNDcyMTY5MTky.html)
-`教育,创新,启发` *2014-01-21 20:44:01*  
+`教育,创新,启发` *2014-01-21 20:44:01*  *****
 
 > Reform is no use anymore, because that's simply improving a broken model. what we need is not evolution, but a revolution in education  
 > 
@@ -33,21 +33,29 @@
 > 我们当前的教育模式是基于工业化，制造业的，这种教育模式是线性的，里面是循规蹈矩和批量生产的人。要改变为基于农业生产的原理的模式，人类的发展不是一个工业制造的过程，而是一个有机的过程。你无法预知人类的发展，你只能像农民一样建造使他们开花结果的环境
 
 ###[提姆·费里斯： 无所畏惧，学无止境](http://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything.html)
-`启发, 学习` *2014年01月25日00:05:06*
+`启发, 学习` *2014年01月25日00:05:06* ****
 
 > Fear is your friend, Fear is an indicator. Sometimes it shows you what you shouldn't do more often than not it shows you exactly what you should do. 
 > 
 > What's the worst that can happen?
+
+###[格雷厄姆·希尔：少点用具 多点乐趣](http://v.youku.com/v_show/id_XMzc3NDg4NzI4.html)
+`启发, 学习` *2014年01月25日00:05:06* ***
+
+> `< = >` : less equal more,少即是多  
+> Less stuff, less space ,less CO2 More Money, Life more easy
+
 
 
 
 
 -----------------------------------------------------------
 这份文件记录看过的觉得不错的TED视频；  
-###记录格式  
-title 
-`标签` *观看时间*  
-> 观看摘录
+###[标题](URL地址)
+`标签1, 标签2` *记录时间* 喜爱程度，使用*号来表示喜爱程度,5个表示最爱
+
+> 摘录
+
 
                                 #####
                                 #####
