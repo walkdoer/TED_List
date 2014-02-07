@@ -46,6 +46,12 @@
 > Less stuff, less space ,less CO2 More Money, Life more easy
 
 
+###[書籍如何成為心靈解藥](http://tedxtaipei.com/2013/10/lisa-bu-how-books-can-open-your-mind/)
+`书籍` *2014年02月07日12:36:08* 
+
+> 我渐渐认识到，美梦成真并非梦想的唯一目的，它最重要的目的是让我们与梦想来源的地方，热情来源的地方和快乐来源的地方保持联系，哪怕一个破碎的梦想也能让你做到
+
+
 
 
 
