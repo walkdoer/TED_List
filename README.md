@@ -26,7 +26,7 @@
 > 
 > Challenging what we take for granted 挑战我们觉得理所当然的东西 
 > 
-> The great problem for reform or transformation is the tyranny of common sense(社会常识的专制统治)  
+> The great problem for reform or transformation is the tyranny often common sense(社会常识的专制统治)  
 > 
 > Life is not linear, it's organic, humman communities depend upon a diversity of talent, not a sigular conception of ability 人类社会取决于天赋的多样性，而不是单一的能力  
 > 
@@ -57,6 +57,11 @@
 
 > 不老騎士
 >  交保費不是為了老有所依，住在醫院的時候醫生在你身上插管子。而是為了老了之後還弄夠有能力追求夢想
+
+###[Rives主宰互联网](http://www.ted.com/talks/rives_controls_the_internet.html)
+`Internet` *2014年02月10日12:39:50* ****
+
+> 无
 
 
 -----------------------------------------------------------
