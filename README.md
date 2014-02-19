@@ -109,10 +109,27 @@
 > 假如有外星人观察地球整个发展史，近40年史无前例的生物高潮，有人类主导的活动在短短的100年以极其惊人的速度改变地球，
 
 ###[每个人都能掌握的记忆技巧](http://v.163.com/movie/2012/1/F/7/M8SI72TUD_M8SI78DF7.html)
-'图像识别' *2014年02月17日13:08:20* *****
+'' *2014年02月17日13:08:20* *****
 
-> 
+> 我们创造了一系列的技术，这些技术让现代生活变为可能，但也改变了我们的文化和认知
+> 把没有前因后果，没有重要性，没有涵义的信息用某种方法跟脑海里的其他记忆连接起来，变成有意义的东西
+> 视觉和空间的记忆能力
+> 记忆宫殿的概念（这货在夏洛特中见到过）
+> 强大的记忆力可以习得
+> 人生是我们个人记忆的合集
+> if you want to live a memorable life, you have to be the kink of person who remembers to remember.
+> We remember when we pay attention, we remember when we deeply engaged, we remember when we able to take a piece of information and expierence and figure out why it's meaningful to us, why it is significant, why it's colorful,we remember when we able to transform it in some way that it make sense in the light of all of the other things floating around in our mind.
 
+###[贾德·戴蒙:文明社会为何走向崩溃](http://v.youku.com/v_show/id_XNDYwMDA1ODE2.html)
+'人类的未来' *2014年02月19日21:35:25* ****
+
+> 他讲解 社会的崩溃的5个点：
+>    环境破坏
+>    气候变化
+>    与邻邦关系
+>    与敌国关系
+>    社会的政治，经济，社会和文化因素
+> 以维京人的例子讲解了这5点的具体表现
 
 
 
