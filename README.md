@@ -132,7 +132,10 @@
 > 以维京人的例子讲解了这5点的具体表现
 
 
+###[ElonMusk:关于Tesla, SpaceX, SolarCity等的构思与计划](http://v.youku.com/v_show/id_XNTgzNTQ1MDg0.html)
+'科技' *2014年02月25日13:09:48* *****
 
+> 
 
 
 
