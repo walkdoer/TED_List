@@ -188,3 +188,8 @@
 '快乐' *2014年03月18日19:47:49* ****
 
 > 快乐激发了生产力
+
+###[Richard St.John 的8个成功秘诀](http://www.ted.com/talks/richard_st_john_s_8_secrets_of_success?language=zh-cn)
+'成功' *2014年03月18日19:51:15* ****
+
+> PASSION, WORK, FOCUS, PERSIST, IDEAS, GOOD, PUSH
