@@ -193,3 +193,9 @@
 '成功' *2014年03月18日19:51:15* ****
 
 > PASSION, WORK, FOCUS, PERSIST, IDEAS, GOOD, PUSH
+
+###[本杰明·赞德：音乐与热情](http://www.ted.com/talks/benjamin_zander_on_music_and_passion?language=zh-cn)
+'音乐' *2014-03-19 13:16:24* *****
+
+> 人人都爱古典音乐
+
