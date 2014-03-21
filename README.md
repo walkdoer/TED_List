@@ -214,3 +214,8 @@
 '宇宙' *2014-03-21 20:06:07* ****
 > these are the things hydrogen atoms do when given 13.7 billion years  
 > if the weak force had been a little bit different, then carbon and oxygen wouldn't be stable inside the heart of starts, and there would be none of that in the universe.
+
+###[Brian Cox:LHC出什么事了](http://v.youku.com/v_show/id_XNDcyMTY5ODM2.html)
+'宇宙' *2014-03-21 20:16:23* ***
+
+> Nothing is so dangerous to the progress of human mind than to assume that our view of science are ultimate, that there are no mysteries in nature, that our triumphs are complete,and that there are no new world to conquer.
