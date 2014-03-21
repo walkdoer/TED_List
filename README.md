@@ -219,3 +219,9 @@
 '宇宙' *2014-03-21 20:16:23* ***
 
 > Nothing is so dangerous to the progress of human mind than to assume that our view of science are ultimate, that there are no mysteries in nature, that our triumphs are complete,and that there are no new world to conquer.
+
+###[爱德华·坦纳:无意识后果](http://v.youku.com/v_show/id_XNTM5MzM2ODU2.html)
+'' *2014-03-21 20:55:07* ****
+> 在灾难中吸取教训  
+> 无意识的结果可能比事情本身具有更加重要的意义，所以我们需要换一个角度看待无意识后果。我们需要一个积极的态度，我们要看到他而已为我们做什么。
+> the message for me that about unintended consequences, chaos happen, let's make better use of it.
