@@ -208,3 +208,9 @@
 ###[错误引导的艺术](http://www.ted.com/talks/apollo_robbins_the_art_of_misdirection/transcript)
 '' *2014-03-20 12:55:25* ****
 > 注意力是非常强大的东西。 正如我之前所说的，它决定了你的现实世界。 所以如果你能控制一个人的注意力， 你会用它做什么？
+
+
+###[Brian Cox:谈CERN的超级对撞机](http://v.youku.com/v_show/id_XNDYwMDMwNzY4.html)
+'宇宙' *2014-03-21 20:06:07* ****
+> these are the things hydrogen atoms do when given 13.7 billion years  
+> if the weak force had been a little bit different, then carbon and oxygen wouldn't be stable inside the heart of starts, and there would be none of that in the universe.
