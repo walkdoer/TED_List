@@ -225,3 +225,8 @@
 > 在灾难中吸取教训  
 > 无意识的结果可能比事情本身具有更加重要的意义，所以我们需要换一个角度看待无意识后果。我们需要一个积极的态度，我们要看到他而已为我们做什么。
 > the message for me that about unintended consequences, chaos happen, let's make better use of it.
+
+###[施德明·萨格米特:创造幸福的7条定律](http://v.youku.com/v_show/id_XNDM3NTM4ODQ4.html?from=y1.5-edu-index-3968-7462.87723.1-1)
+'设计,幸福,工作' *2014-03-22 12:58:21* ****
+
+> 如何在工作中追求幸福
