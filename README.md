@@ -241,3 +241,9 @@
 '数据分析, 数据' *2014-03-24 13:16:04* ****
 
 > TODO
+
+
+###[Emily Pilloton:教授改变世界的设计](http://v.youku.com/v_show/id_XNDM3MjE3MzQ4.html)
+'设计' *2014-03-25 12:48:31* ****
+
+> 小城镇的空洞化，downtowns becoming ghost towns. 用设计来改变这一现状。设计的思路来做慈善。建立农村社区和公共教育。
