@@ -247,3 +247,10 @@
 '设计' *2014-03-25 12:48:31* ****
 
 > 小城镇的空洞化，downtowns becoming ghost towns. 用设计来改变这一现状。设计的思路来做慈善。建立农村社区和公共教育。
+
+###[约翰安德可夫勒展示未来的用户界面](http://v.youku.com/v_show/id_XNDM3MjE3MTg4.html)
+'计算机, 设计, 人机交互' *2014-03-26 13:06:41* *****
+
+> NEW IU INTERFACE Spatial Operating System  
+> 科幻变成现实  
+> MIT Media Lab Hiroshi Zshii
