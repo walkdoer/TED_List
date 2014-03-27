@@ -254,3 +254,8 @@
 > NEW IU INTERFACE Spatial Operating System  
 > 科幻变成现实  
 > MIT Media Lab Hiroshi Zshii
+
+###[蒂姆·布朗:鼓励设计师们往大处着眼](http://v.youku.com/v_show/id_XNDM3MjE4NDMy.html)
+'设计'  *2014-03-27 12:31:36*  ****
+
+> Instead of Thinkin about what to build, Building in order to think, Now prototypes speed up the process of innovation, because it is only when we put our ideas out into the world, that we really start to understand their strengths and weaknesses.and the faster we do that, the faster our ideas evolve
