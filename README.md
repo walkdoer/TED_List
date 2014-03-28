@@ -259,3 +259,9 @@
 '设计'  *2014-03-27 12:31:36*  ****
 
 > Instead of Thinkin about what to build, Building in order to think, Now prototypes speed up the process of innovation, because it is only when we put our ideas out into the world, that we really start to understand their strengths and weaknesses.and the faster we do that, the faster our ideas evolve
+> intangible things are worth perhaps more than physical things.
+>
+
+###[Tan Le:能读懂脑电波的耳机](http://v.youku.com/v_show/id_XNDcyMTcwODg0.html)
+'科技, 大脑' *2014-03-28 12:57:59*  ***
+> 通过想象（和一点点专注）就来操作虚拟的物体，甚至是真实的电子物体
