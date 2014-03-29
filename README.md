@@ -265,3 +265,7 @@
 ###[Tan Le:能读懂脑电波的耳机](http://v.youku.com/v_show/id_XNDcyMTcwODg0.html)
 '科技, 大脑' *2014-03-28 12:57:59*  ***
 > 通过想象（和一点点专注）就来操作虚拟的物体，甚至是真实的电子物体
+
+###[Hans Rosling:以新的视角解读当今世界的贫困问题](http://v.youku.com/v_show/id_XNjE5NDk0ODgw.html?from=y1.2-1-87.3.6-2.1-1-1-5)
+'贫穷' *2014-03-29 23:10:25* ***
+> Todo watch again
