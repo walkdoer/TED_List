@@ -273,3 +273,8 @@
 ###[James Cameron:<阿凡达>之前的好奇小男孩](http://v.youku.com/v_show/id_XNDE1NjQ5MzUy.html?from=y1.5-edu-index-3968-7462.87725.1-1)
 '电影,科技,探险' *2014-03-30 23:28:28* ***
 > 无论你做什么，失败是其中一个选项，但恐惧却不是
+
+###[辛西娅·布雷齐尔:个人机器人的兴起](http://v.youku.com/v_show/id_XNTA1MzA4Mjky.html)
+'机器人,科技' *2014-03-31 00:34:04* ***
+> Robots are all about people
+
