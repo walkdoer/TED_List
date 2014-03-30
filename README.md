@@ -269,3 +269,7 @@
 ###[Hans Rosling:以新的视角解读当今世界的贫困问题](http://v.youku.com/v_show/id_XNjE5NDk0ODgw.html?from=y1.2-1-87.3.6-2.1-1-1-5)
 '贫穷' *2014-03-29 23:10:25* ***
 > Todo watch again
+
+###[James Cameron:<阿凡达>之前的好奇小男孩](http://v.youku.com/v_show/id_XNDE1NjQ5MzUy.html?from=y1.5-edu-index-3968-7462.87725.1-1)
+'电影,科技,探险' *2014-03-30 23:28:28* ***
+> 无论你做什么，失败是其中一个选项，但恐惧却不是
