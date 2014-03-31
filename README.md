@@ -288,3 +288,7 @@
 > I wish I'd had courage to express my true self  
 > I wish I'd lived a life true to my dream instead of what others expected of me
 > [概念]创伤后精神再生(Post-Traumatic Growth)， 创伤后的提升很多都是临终遗憾的方面版本。
+
+###[Johnny Lee演示Wii遥控器](http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks?language=zh-cn)
+'科技,DIY' *2014-03-31 20:30:39* ****
+> 低成本技術方案, 實現电子白板，触摸屏和3D观看器
