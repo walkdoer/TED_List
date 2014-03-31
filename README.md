@@ -278,3 +278,13 @@
 '机器人,科技' *2014-03-31 00:34:04* ***
 > Robots are all about people
 
+###[能让你多出10年额外寿命的游戏](http://v.163.com/movie/2013/8/7/8/M94IULLG6_M94IV5478.html)
+'快乐, 生活' *2014-03-31 13:10:54* *****
+
+> 减少临终遗憾
+> I wish I hadn't work so hard  
+> I wish I had stay in touch with friends  
+> I wish I had let myself be happier  
+> I wish I'd had courage to express my true self  
+> I wish I'd lived a life true to my dream instead of what others expected of me
+> [概念]创伤后精神再生(Post-Traumatic Growth)， 创伤后的提升很多都是临终遗憾的方面版本。
