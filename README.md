@@ -292,3 +292,18 @@
 ###[Johnny Lee演示Wii遥控器](http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks?language=zh-cn)
 '科技,DIY' *2014-03-31 20:30:39* ****
 > 低成本技術方案, 實現电子白板，触摸屏和3D观看器
+
+###[德雷克·西弗斯Derek Sivers：如何发起一场运动](http://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=zh-cn)
+'领导' *2014-03-31 20:38:05* ****
+> The first follower is what transforms a lone nut into a leader  
+> three is a crowd, and a crowd is news.So a movement must be public  
+> If you really care about starting a movement, have the courage to follow and show others how to follow.And when you find a lone nut doing something great, have the guts to be the first one to stand up and join in.  
+>
+
+###[想要快乐？学会感恩](http://open.163.com/movie/2014/3/N/S/M9KC7BRVV_M9KGV2GNS.html)
+'感恩, 快乐' *2014-04-01 12:27:58* ***** loop
+> we have to stop, we have to get quiet, we have to build stop signs into our lifes.
+> enjoy what is given to us.we can also open our heart for the opportunities
+> 革命就是将金字塔倒装，以前在底层的人变成了顶层，曾经在底层，后来变成高层的人重新回到了底层
+> graceful world is a happy world
+> stop look go
