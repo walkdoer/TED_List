@@ -318,5 +318,13 @@
 > in techology, we need revolutionary change, not incremental change.  
 > what state of mind , what quality of mind is it that has served you best?has enable you to think about the future and at the same time change the present-- LP: what is the future really going to be?And how do we creat it? 我想拉裡佩奇講的是對未來的探索和執行力，好奇心
 
+###[用“云”建立一所学校](http://v.163.com/movie/2013/4/1/S/M8SI0TJOK_M8SI16T1S.html)
+'教育,未來' *2014-04-02 13:39:42* ***** loop
+> 大腦中的爬蟲類部份，當遇到威脅的時候會關閉大腦，關閉前額葉皮層負責學習的部份，懲罰和考試被視為威脅。
+> I think what we need to look at is we need to look at learning as the product of educational self-organization.if you allow the educational process to self-organize, then learning emerges, it's not about making learning happen, it's about letting it happen.
+> my wish is design the future of learning.
+
+
+
 --------------------------
 *loop: 个人觉得值得重复看*
