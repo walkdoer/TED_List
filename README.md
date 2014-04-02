@@ -312,6 +312,11 @@
 '无神论' *2014-04-01 12:49:58* **** loop
 > 宗教把身體和智慧結合起來
 
+###[Where’s Google going next?](http://www.ted.com/talks/larry_page_where_s_google_going_next)
+'科技,google' *2014-04-02 12:37:58* ****
+> the more you learn about technology, the more you learn what's possible.  
+> in techology, we need revolutionary change, not incremental change.  
+> what state of mind , what quality of mind is it that has served you best?has enable you to think about the future and at the same time change the present-- LP: what is the future really going to be?And how do we creat it? 我想拉裡佩奇講的是對未來的探索和執行力，好奇心
 
 --------------------------
 *loop: 个人觉得值得重复看*
