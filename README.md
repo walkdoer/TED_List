@@ -324,7 +324,9 @@
 > I think what we need to look at is we need to look at learning as the product of educational self-organization.if you allow the educational process to self-organize, then learning emerges, it's not about making learning happen, it's about letting it happen.
 > my wish is design the future of learning.
 
-
+###[时至今日，别让欺凌掩盖了你的美丽](http://v.163.com/movie/2013/3/A/1/M8P08RTQJ_M8P0AQDA1.html)
+'欺凌,诗歌' *2014-04-03 13:39:48* ***** loop
+> 反欺凌行为的诗朗诵
 
 --------------------------
 *loop: 个人觉得值得重复看*
