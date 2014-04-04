@@ -4,8 +4,13 @@
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
 ###[Susan Cain: The power of introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts/transcript)
-'心理,改革' *2014-04-04 12:58:31* *****
->Our most important institutions, our schools and our workplaces, they are designed mostly for extroverts and for extroverts' need for lots of stimulation
+'心理,改革' *2014-04-04 12:58:31* ***** loop
+> Our most important institutions, our schools and our workplaces, they are designed mostly for extroverts and for extroverts' need for lots of stimulation
+> And also we have this belief system right now that I call the new groupthink, which holds that all creativity and all productivity comes from a very oddly gregarious place.
+> . And interesting research by Adam Grant at the Wharton School has found that introverted leaders often deliver better outcomes than extroverts do, because when they are managing proactive employees, they're much more likely to let those employees run with their ideas, whereas an extrovert can, quite unwittingly, get so excited about things that they're putting their own stamp on things, and other people's ideas might not as easily then bubble up to the surface.
+> 1. Stop the madness for constant group work
+> 2. Go to the wilderness
+> 3. Take a good look at what's inside your own suitcase and why you put it there
 
 ###[加里 科瓦奇: 跟踪你的跟踪者](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers?utm_source=netease&utm_medium=partner_website&utm_campaign=ted_prize_2013#t-2342)
 '隐私, 监控, 犯罪, 互联网' *2014-04-04 12:29:22* *****
