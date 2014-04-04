@@ -3,6 +3,35 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[Susan Cain: The power of introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts/transcript)
+'心理,改革' *2014-04-04 12:58:31* *****
+>Our most important institutions, our schools and our workplaces, they are designed mostly for extroverts and for extroverts' need for lots of stimulation
+
+###[加里 科瓦奇: 跟踪你的跟踪者](http://www.ted.com/talks/gary_kovacs_tracking_the_trackers?utm_source=netease&utm_medium=partner_website&utm_campaign=ted_prize_2013#t-2342)
+'隐私, 监控, 犯罪, 互联网' *2014-04-04 12:29:22* *****
+> As you surf the Web, information is being collected about you. Web tracking is not 100% evil — personal data can make your browsing more efficient; cookies can help your favorite websites stay in business. But, says Gary Kovacs, it's your right to know what data is being collected about you. He unveils a Firefox add-on, Collusion, to do just that
+
+###[时至今日，别让欺凌掩盖了你的美丽](http://v.163.com/movie/2013/3/A/1/M8P08RTQJ_M8P0AQDA1.html)
+'欺凌,诗歌' *2014-04-03 13:39:48* ***** loop
+> 反欺凌行为的诗朗诵
+
+###[用“云”建立一所学校](http://v.163.com/movie/2013/4/1/S/M8SI0TJOK_M8SI16T1S.html)
+'教育,未來' *2014-04-02 13:39:42* ***** loop
+> 大腦中的爬蟲類部份，當遇到威脅的時候會關閉大腦，關閉前額葉皮層負責學習的部份，懲罰和考試被視為威脅。
+> I think what we need to look at is we need to look at learning as the product of educational self-organization.if you allow the educational process to self-organize, then learning emerges, it's not about making learning happen, it's about letting it happen.
+> my wish is design the future of learning.
+
+
+###[Where’s Google going next?](http://www.ted.com/talks/larry_page_where_s_google_going_next)
+'科技,google' *2014-04-02 12:37:58* ****
+> the more you learn about technology, the more you learn what's possible.  
+> in techology, we need revolutionary change, not incremental change.  
+> what state of mind , what quality of mind is it that has served you best?has enable you to think about the future and at the same time change the present-- LP: what is the future really going to be?And how do we creat it? 我想拉裡佩奇講的是對未來的探索和執行力，好奇心
+
+###[无神论2.0](http://v.163.com/movie/2013/12/H/0/M9DLUM9LQ_M9DMBJPH0.html)
+'无神论' *2014-04-01 12:49:58* **** loop
+> 宗教把身體和智慧結合起來
+
 ###[Ken Robinson:认为学校扼杀创造力](http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html) 
 `教育,创新,启发` *2014-01-20 23:45:14* *****
 
@@ -308,25 +337,6 @@
 > graceful world is a happy world
 > stop look go
 
-###[无神论2.0](http://v.163.com/movie/2013/12/H/0/M9DLUM9LQ_M9DMBJPH0.html)
-'无神论' *2014-04-01 12:49:58* **** loop
-> 宗教把身體和智慧結合起來
-
-###[Where’s Google going next?](http://www.ted.com/talks/larry_page_where_s_google_going_next)
-'科技,google' *2014-04-02 12:37:58* ****
-> the more you learn about technology, the more you learn what's possible.  
-> in techology, we need revolutionary change, not incremental change.  
-> what state of mind , what quality of mind is it that has served you best?has enable you to think about the future and at the same time change the present-- LP: what is the future really going to be?And how do we creat it? 我想拉裡佩奇講的是對未來的探索和執行力，好奇心
-
-###[用“云”建立一所学校](http://v.163.com/movie/2013/4/1/S/M8SI0TJOK_M8SI16T1S.html)
-'教育,未來' *2014-04-02 13:39:42* ***** loop
-> 大腦中的爬蟲類部份，當遇到威脅的時候會關閉大腦，關閉前額葉皮層負責學習的部份，懲罰和考試被視為威脅。
-> I think what we need to look at is we need to look at learning as the product of educational self-organization.if you allow the educational process to self-organize, then learning emerges, it's not about making learning happen, it's about letting it happen.
-> my wish is design the future of learning.
-
-###[时至今日，别让欺凌掩盖了你的美丽](http://v.163.com/movie/2013/3/A/1/M8P08RTQJ_M8P0AQDA1.html)
-'欺凌,诗歌' *2014-04-03 13:39:48* ***** loop
-> 反欺凌行为的诗朗诵
 
 --------------------------
 *loop: 个人觉得值得重复看*
