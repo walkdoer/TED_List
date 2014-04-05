@@ -3,6 +3,10 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[Tim Berners-Lee:谈下一代网络](http://v.youku.com/v_show/id_XNDMxNjk4ODIw.html)
+'计算机,网络,科技' *2014-04-05 22:49:32* ****
+> LINK DATA!!! Bing! Bing! Bing! Data!!!
+
 ###[Susan Cain: The power of introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts/transcript)
 '心理,改革' *2014-04-04 12:58:31* ***** loop
 > Our most important institutions, our schools and our workplaces, they are designed mostly for extroverts and for extroverts' need for lots of stimulation
