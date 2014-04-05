@@ -2,6 +2,13 @@
 看过的TED视频列表
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
+###[Sherry Turkle:保持联系却仍旧孤单](http://v.youku.com/v_show/id_XNjkwODEwNDI4.html)
+`网络,计算机` *2014-04-05 23:13:02* ***** loop
+> We expecte more from technology and less from each other
+> Technology appeals to us most where we are most vulnerable
+> We are lonely but we're afraid of intimacy
+> the illusion of companionship without the demands of friendship
+> I share therefor I am
 
 ###[Tim Berners-Lee:谈下一代网络](http://v.youku.com/v_show/id_XNDMxNjk4ODIw.html)
 '计算机,网络,科技' *2014-04-05 22:49:32* ****
