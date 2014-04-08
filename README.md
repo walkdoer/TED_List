@@ -2,6 +2,15 @@
 看过的TED视频列表
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
+
+###[不要公开宣布个人目标](http://v.163.com/movie/2010/9/H/J/M77TJ4TC9_M9BTM2LHJ.html?recomend=1)
+`颠覆` *2014-04-08 12:25:09* ****
+> 按照一般的理解，告诉别人自己的目标是有助于自己的实现的，因为有了别人的目光，但是在这个TED中，是与之相反的观点：  
+> when it was acknowledged by others, it felt real in mind.  
+> 也就是说，告诉别人，就好像这个目标自己已经完成了一样，产生了满足感。  
+> Telling someone yout goal make them less likely to happen.  
+> 总结 social reality -> satisfaction -> less motivated to do.  
+
 ###[Sherry Turkle:保持联系却仍旧孤单](http://v.youku.com/v_show/id_XNjkwODEwNDI4.html)
 `网络,计算机` *2014-04-05 23:13:02* ***** loop
 > We expecte more from technology and less from each other
