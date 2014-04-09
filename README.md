@@ -3,6 +3,11 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[西奥简森创造的新生物](http://www.ted.com/talks/theo_jansen_creates_new_creatures?language=zh-cn)
+`创意,乐趣,创造` *2014-04-09 12:42:32* ***
+> 很有意思的创造，演讲者描述的方式好像这个是真的生物一样，很可爱。
+
+
 ###[四轴飞行器灵活的运动性能](http://v.163.com/movie/2014/3/7/P/M9KC3BQ57_M9KEPUR7P.html)
 `飞行器, 硬件, 科技` *2014-04-08 12:54:32* ***** loop
 > BLOW MY MIND AWAY
