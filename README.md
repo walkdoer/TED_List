@@ -2,6 +2,18 @@
 看过的TED视频列表
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
+
+###[奈吉尔马什：如何实现工作与生活的平衡](http://www.ted.com/talks/nigel_marsh_how_to_make_work_life_balance_work?language=zh-cn)
+`時間管理，生活質量` *2014-04-11 12:40:58* *****
+> 對我個人有啟發的幾句話：
+> Now the first step in solving any problem is acknowledging the reality of the situation you're in. And the reality of  the society that we're in is there are thousands and thousands of people out there leading lives of quiet, screaming desperation, where they work long, hard hours at jobs they hate to enable them to buy things they don't need to impress people they don't like  
+> If you don't design your life, someone else will design it for you, and you may just not like their idea of balance  
+>  it's particularly important that you never put the quality of your life in the hands of a commercial corporation. Now I'm not talking here just about the bad companies -- the "abattoirs of the human soul," as I call them.Because commercial companies are inherently designed to get as much out of you [as] they can get away with. It's in their nature; it's in their DNA; it's what they do.We have to be responsible for setting and enforcing the boundaries that we want in our life.  
+> The third observation is we have to be careful with the time frame that we choose upon which to judge our balance.A day is too short; "after I retire" is too long. There's got to be a middle way  
+> Lovely though physical exercise may be, there are other parts to life -- there's the intellectual side; there's the emotional side; there's the spiritual side. And to be balanced, I believe we have to attend to all of those areas -- not just do 50 stomach crunches  
+> my point is the small things matter. Being more balanced doesn't mean dramatic upheaval in your life. With the smallest investment in the right places, you can radically transform the quality of your relationships and the quality of your life. Moreover, I think, it can transform society. Because if enough people do it, we can change society's definition of success away from the moronically simplistic notion that the person with the most money when he dies wins, to a more thoughtful and balanced definition of what a life well lived looks like. And that, I think, is an idea worth spreading.  
+
+
 ###[伊莱·帕里泽：当心网上“过滤气泡”](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=zh-cn)
 `科技, 民主, 信息`  
 >  它们都以不同的方式与个性化定制搭上边。 这会将我们很快地 推向这样一个世界—— 网络给我们显示它认为我们想要看到的信息， 而未必是我们需要的信息
