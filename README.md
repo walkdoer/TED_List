@@ -3,8 +3,16 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[计算机的“真实”世界，发挥你无穷的想象力](http://v.163.com/movie/2013/10/F/9/M9AI41S7L_M9AI4A6F9.html)
+`计算机,虚拟现实, 创新` *2014-04-14 19:25:02* ****
+
+> Throughout the history of computers we've been striving to shorten the gap between us and digital information, the gap between our physical world and the world in the screen where our imagination can go wild.
+>  我们的基本实现原理是，消除重力对小球的作用 并通过磁悬浮、机械驱动 和传感技术的结合 来控制小球的运动。 通过对这个对象的数字编程， 我们正试着解放 时间和空间对物质的限制，这意味着，现在， 人的运动可以在物质世界中可以被 录制、重放和永久保留。 这样，舞蹈编排就可以被远程而且真实地传授， 迈克尔·乔丹著名的扣篮动作就可以 反反复复、实实在在地被重演。 
+> 我今天的演讲是从谈论“边界”问题开始的， 如果我们能除去这一边界， 剩下的就是我们无边无际的想像力了。
+
+
 ###[奈吉尔马什：如何实现工作与生活的平衡](http://www.ted.com/talks/nigel_marsh_how_to_make_work_life_balance_work?language=zh-cn)
-`時間管理，生活質量` *2014-04-11 12:40:58* *****
+`時間管理，生活質量` *2014-04-11 12:40:58* ***** loop
 > 對我個人有啟發的幾句話：
 > Now the first step in solving any problem is acknowledging the reality of the situation you're in. And the reality of  the society that we're in is there are thousands and thousands of people out there leading lives of quiet, screaming desperation, where they work long, hard hours at jobs they hate to enable them to buy things they don't need to impress people they don't like  
 > If you don't design your life, someone else will design it for you, and you may just not like their idea of balance  
