@@ -3,10 +3,15 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[what good ideas come from?](http://www.ted.com/talks/steven_johnson_where_good_ideas_come_from?language=zh-cn)
+`idea` *2014-04-15 12:57:29* *****
+> An Idea Is a Network
+> 两个互补的想法的相遇是美好的。
+
 ###[为什么健康的生活方式几乎把我害死](http://v.163.com/movie/2013/8/Q/K/M94IULLG6_M94IVH0QK.html)
 `生活方式` *2014-04-14 20:08:18* ****
 
-> 戴防噪音耳塞来防止噪音污染，噪音污染会影响心血管:w
+> 戴防噪音耳塞来防止噪音污染，噪音污染会影响心血管
 
 ###[计算机的“真实”世界，发挥你无穷的想象力](http://v.163.com/movie/2013/10/F/9/M9AI41S7L_M9AI4A6F9.html)
 `计算机,虚拟现实, 创新` *2014-04-14 19:25:02* ****
