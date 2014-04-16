@@ -3,6 +3,10 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[迈克尔 诺顿：如何买到幸福](http://www.ted.com/talks/michael_norton_how_to_buy_happiness?language=zh-cn)
+`幸福, 金钱` *2014-04-16 12:34:32* ***
+> 当你不把钱花在自己身上的时候，金钱的确可以买到幸福。具有利他主义的消费能够惠及自己，惠及工作以及他人的。
+
 ###[what good ideas come from?](http://www.ted.com/talks/steven_johnson_where_good_ideas_come_from?language=zh-cn)
 `idea` *2014-04-15 12:57:29* *****
 > An Idea Is a Network
