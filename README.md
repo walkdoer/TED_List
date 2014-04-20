@@ -5,8 +5,9 @@
 
 ###[巴瑞·斯瓦兹-我们所遗失的智慧](http://v.163.com/movie/2009/2/4/9/M7OVAJ7JE_M7OVB8O49.html)
 `教育, 智慧, 发展, 慈善, 工作` ***** loop
+> todo WA
 > 看了一遍，里面提及的东西太多了 Do the Right Thing,可能是其中强调做多次的一句话了。
-> todo WA 
+> In many ways, it's what TED is all about. Wanting to do the right thing in the right way for the right reasons. This kind of wisdom is within the grasp of each and every one of us if only we start paying attention. Paying attention to what we do, to how we do it, and, perhaps most importantly, to the structure of the organizations within which we work, so as to make sure that it enables us and other people to develop wisdom rather than having it suppressed.
 
 
 ###[美妙生活的三个秘诀](http://v.163.com/movie/2011/1/F/K/M77U9ECN8_M77U9P2FK.html)
