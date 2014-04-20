@@ -3,6 +3,12 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[巴瑞·斯瓦兹-我们所遗失的智慧](http://v.163.com/movie/2009/2/4/9/M7OVAJ7JE_M7OVB8O49.html)
+`教育, 智慧, 发展, 慈善, 工作` ***** loop
+> 看了一遍，里面提及的东西太多了 Do the Right Thing,可能是其中强调做多次的一句话了。
+> todo WA 
+
+
 ###[美妙生活的三个秘诀](http://v.163.com/movie/2011/1/F/K/M77U9ECN8_M77U9P2FK.html)
 `幸福` *2014-04-18 12:57:52* ****
 
@@ -13,7 +19,7 @@
 
 ###[伊丽莎白·吉尔伯特谈呵护创造力及减轻创作压力](http://v.163.com/movie/2012/1/T/U/M8NNM7QU4_M8NNQ29TU.html)
 `写作` *2014-04-17 12:51:50* ***** loop
-> todo watch again
+> todo WA
 
 
 ###[迈克尔 诺顿：如何买到幸福](http://v.163.com/movie/2013/9/4/9/M97IMFBDP_M97IMIR49.html?recomend=2)
