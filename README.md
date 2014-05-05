@@ -2,6 +2,18 @@
 看过的TED视频列表
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
+
+###[Clifford Stoll…无所不及](http://www.ted.com/talks/clifford_stoll_on_everything?language=zh-cn#t-79344)
+`科学,学习` *2014-05-05 12:53:56* **** loop
+> The first time you do something, it's science. The second time, it's engineering. A third time, it's just being a technician. I'm a scientist. Once I do something, I do something else. 
+> "All truth is one. In this light, may science and religion endeavor here for the steady evolution of mankind, from darkness to light, from narrowness to broad-mindedness, from prejudice to tolerance. It is the voice of life, which calls us to come and learn." 
+
+###[衡量生命中有价值的东西](http://v.163.com/movie/2011/7/9/N/M78CRKESV_M78CRTP9N.html)
+`幸福, GNH` *2014-04-24 13:44:24* ****
+> todo WA
+
+
+
 ###[布莱恩·格林恩谈“弦理论](http://v.163.com/movie/2013/5/R/D/M93FHI8KB_M93FJQJRD.html)
 `理论物理,超弦理论,宇宙` *2014-04-21 23:11:42* ****
 > 很形象化的介绍难以理解的理论物理
