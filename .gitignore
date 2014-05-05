@@ -42,4 +42,5 @@ node_modules
 vendor
 *.pid
 *.swp
+*.swo
 *.pid
