@@ -3,6 +3,11 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[资本主义的困局：李世默:两种制度的传说](http://v.youku.com/v_show/id_XNTc3ODE1ODYw.html?from=y1.5-edu-index-3968-7462.64793.1-1)
+`政治,改革` *2014-05-06 13:04:24* ****
+> Meta-narratives that make universal claims failed us in the 20th century and are failing us in the 21st. Meta-narrative is the cancer that is killing democracy from the inside.
+> The significance of China's example is not that it provides an alternative, but the demonstration that alternatives exist. Let us draw to a close this era of meta-narratives. Communism and democracy may both be laudable ideals, but the era of their dogmatic universalism is over. Let us stop telling people and our children there's only one way to govern ourselves and a singular future towards which all societies must evolve. It is wrong. It is irresponsible. And worst of all, it is boring. Let universality make way for plurality. Perhaps a more interesting age is upon us. Are we brave enough to welcome it?
+
 ###[Clifford Stoll…无所不及](http://www.ted.com/talks/clifford_stoll_on_everything?language=zh-cn#t-79344)
 `科学,学习` *2014-05-05 12:53:56* **** loop
 > The first time you do something, it's science. The second time, it's engineering. A third time, it's just being a technician. I'm a scientist. Once I do something, I do something else. 
