@@ -3,6 +3,9 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[阿瑟·本雅明: 神奇的斐波那契数列](http://www.ted.com/talks/arthur_benjamin_the_magic_of_fibonacci_numbers?language=zh-cn#t-367603)
+> 可爱的数学
+
 ###[资本主义的困局：李世默:两种制度的传说](http://v.youku.com/v_show/id_XNTc3ODE1ODYw.html?from=y1.5-edu-index-3968-7462.64793.1-1)
 `政治,改革` *2014-05-06 13:04:24* ****
 > Meta-narratives that make universal claims failed us in the 20th century and are failing us in the 21st. Meta-narrative is the cancer that is killing democracy from the inside.
