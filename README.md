@@ -3,6 +3,14 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[简･方达：生命的第三幕](http://www.ted.com/talks/jane_fonda_life_s_third_act?language=zh-cn)
+`生命,改革` *2014-05-12 12:46:59* ***
+> That's an entire second adult lifetime that's been added to our lifespan. And yet, for the most part, our culture has not come to terms with what this means. We're still living with the old paradigm of age as an arch. 
+> 我意识到，要知道往哪里去， 必须先明白我从哪里来。 于是我就回过头 去探寻我人生的前两幕， 去看看我曾是谁， 正真的自己是什么样－ 这个自己不是我的父母或别人告诉我的， 或他们对待我的样子。 我是什么样的人？我的父母是什么样的－ 单纯从社会个体看他们的话？ 我的祖父母又是什么样？ 他们是怎样对待我的父母的？ 此类的问题。我所做的这个过程 在心理学上叫做 “生平回顾”。 据说这能赋予一个人的生命 新的意义 并是其变得明晰.像我一样，也许你会发现，很多你曾引以自咎的事， 很多无法放下的事， 都不是你的问题。 错不在你。 
+> 生命中的一切都可能被剥夺只有一个例外， 那就是你可以决定怎样去应对面临的处境(Everything you have in life can be taken from you except one thing, your freedom to choose how you will respond to the situation. This is what determines the quality of the life we've lived )
+> 也许生命第三幕的核心意义 就是回朔并尝试， 修正自身对 过去的认识。 有认知研究显示 当我们能做到这些时，这能在神经上反应出来,它能在大脑里创建神经通路。 如果你长时间， 对过去或者别人持负面情绪， 大脑中的化学信号和电信号 就会阻碍神经通路。 随着时间推移，这些神经通路就会固化， 最后就变成了模式－ 这会给我们带来压力和焦虑对我们有害。
+> 但是如果我们能回头修正对过去的看法 重建和自己过去的 关系， 神经通路可以被改变。 如果我们能保持对过去 持积极的态度， 这就会成为新的模式。 这就像重新设置恒温器一样。 这并不是去获得使人智慧的体验， 但是这反映出我们已经有了 使自己变得智慧的体验－ 从而使我们达到完整，得到智慧和真实。这能帮我们实现曾经的理想。
+
 ###[卡迈勒.米艾涛谈怎么样生产新鲜空气](http://www.ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fresh_air?language=zh-cn#t-226338)
 `自然,绿化,空气净化,家居` *2014-05-08 12:38:07* ****
 > 虎尾兰，绿萝，散尾葵
