@@ -3,6 +3,14 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[戴·罗伊: 单词的诞生](http://v.163.com/movie/2011/12/J/0/M8H1NPQM9_M8H1VU4J0.html)
+`统计,数据可视化,家庭,数字化` *2014年05月14日13:41:27* ***** loop
+> 信息量太大，需要重新观看做记录
+
+###[让思想彼此交配](http://v.163.com/movie/2011/7/G/S/M78G97LDH_M78G9G9GS.html)
+`人类,社会,协作` *2014-05-13 13:22:35* **** loop
+> {{todo}} {WA}
+
 ###[简･方达：生命的第三幕](http://www.ted.com/talks/jane_fonda_life_s_third_act?language=zh-cn)
 `生命,改革` *2014-05-12 12:46:59* ***
 > That's an entire second adult lifetime that's been added to our lifespan. And yet, for the most part, our culture has not come to terms with what this means. We're still living with the old paradigm of age as an arch. 
@@ -30,7 +38,7 @@
 
 ###[衡量生命中有价值的东西](http://v.163.com/movie/2011/7/9/N/M78CRKESV_M78CRTP9N.html)
 `幸福, GNH` *2014-04-24 13:44:24* ****
-> todo WA
+> {todo} {WA}
 
 
 
@@ -41,7 +49,7 @@
 
 ###[巴瑞·斯瓦兹-我们所遗失的智慧](http://v.163.com/movie/2009/2/4/9/M7OVAJ7JE_M7OVB8O49.html)
 `教育, 智慧, 发展, 慈善, 工作` ***** loop
-> todo WA
+> {todo} {WA}
 > 看了一遍，里面提及的东西太多了 Do the Right Thing,可能是其中强调做多次的一句话了。
 > In many ways, it's what TED is all about. Wanting to do the right thing in the right way for the right reasons. This kind of wisdom is within the grasp of each and every one of us if only we start paying attention. Paying attention to what we do, to how we do it, and, perhaps most importantly, to the structure of the organizations within which we work, so as to make sure that it enables us and other people to develop wisdom rather than having it suppressed.
 
@@ -56,7 +64,7 @@
 
 ###[伊丽莎白·吉尔伯特谈呵护创造力及减轻创作压力](http://v.163.com/movie/2012/1/T/U/M8NNM7QU4_M8NNQ29TU.html)
 `写作` *2014-04-17 12:51:50* ***** loop
-> todo WA
+> {todo} {WA}
 
 
 ###[迈克尔 诺顿：如何买到幸福](http://v.163.com/movie/2013/9/4/9/M97IMFBDP_M97IMIR49.html?recomend=2)
@@ -399,7 +407,7 @@
 
 
 ###[埃朗·考博林:巧妙地可视化人类活动](http://v.youku.com/v_show/id_XNDM3MjE1Mjgw.html)
-`设计,创新` *2014-03-22 13:21:51* *****
+`设计,创新,统计,数据可视化` *2014-03-22 13:21:51* *****
 
 > 集体智慧，数据可视化
 
