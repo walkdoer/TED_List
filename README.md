@@ -3,6 +3,15 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[可视化记录婴儿受孕到出生(By Alexander Tsiaras)](http://v.163.com/movie/2012/1/K/U/M8SI7QONP_M8SI7V6KU.html)
+`生命,怀孕,奇迹` *2014-05-18 12:12:48* *****
+> 加上配乐，是一个很震撼的视频，足以让我体验到生命的奇迹
+>
+> Even though I am a mathematician, I look at this with marvel of how do these instruction sets not make these mistakes as they build what is us? It's a mystery, it's magic, it's divinity. Then you start to take a look at adult life. Take a look at this little tuft of capillaries. It's just a tiny sub-substructure, microscopic. But basically by the time you're nine months and you're given birth, you have almost 60,000 miles of vessels inside your body. I mean, and only one mile is visible. 59,999 miles that are basically bringing nutrients and taking waste away. The complexity of building that within a single system is, again, beyond any comprehension or any existing mathematics today
+>
+> And it's not just our own existence, but how does the woman's body understand to have genetic structure that not only builds her own, but then has the understanding that allows her to become a walking immunological, cardiovascular system that basically is a mobile system that can actually nurture, treat this child with a kind of marvel that is beyond, again, our comprehension -- the magic that is existence, that is us?
+>
+
 ###[为什么我们的智商比我们的祖先高](http://v.163.com/movie/2014/3/A/8/M9KC6T2VT_M9KGU1NA8.html)
 `假设,逻辑` *2014-05-16 13:07:12* ***
 > {todo} {WA}
