@@ -3,6 +3,16 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[冷漠的解药](http://v.163.com/movie/2011/7/I/K/M77979D2R_M779HNQIK.html)
+`社会,冷漠` *2014-05-19 12:41:37* ***** loop
+> 對公共空間的利用，媒體（媒體對政治活動的介紹（缺少如何參與的信息），讓人誤以為政治是一項觀賞性運動）
+>
+> Heroes: collective,imperfect,voluntary; As long as we're teaching our kids that heroism starts when someone scratches a mark on your forehead, or someone tells you that you're part of a prophecy, they're missing the most important characteristic of leadership, which is that it comes from within. It's about following your own dreams -- uninvited, uninvited -- and then working with others to make those dreams come true.
+>
+> Political parties: Political parties could and should be one of the basic entry points for people to get engaged in politics. Instead, they've become, sadly, uninspiring and uncreative organizations that rely so heavily on market research and polling and focus groups that they end up all saying the same thing, pretty much regurgitating back to us what we already want to hear at the expense of putting forward bold and creative ideas. And people can smell that, and it feeds cynicism.
+>
+> My main message is, if we can redefine apathy, not as some kind of internal syndrome, but as a complex web of cultural barriers that reinforces disengagement, and if we can clearly define, we can clearly identify, what those obstacles are, and then if we can work together collectively to dismantle those obstacles, then anything is possible.
+
 ###[可视化记录婴儿受孕到出生(By Alexander Tsiaras)](http://v.163.com/movie/2012/1/K/U/M8SI7QONP_M8SI7V6KU.html)
 `生命,怀孕,奇迹` *2014-05-18 12:12:48* *****
 > 加上配乐，是一个很震撼的视频，足以让我体验到生命的奇迹
