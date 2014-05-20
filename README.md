@@ -4,7 +4,7 @@
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
 ###[我们从五百万本书里学到了什么](http://www.ted.com/talks/what_we_learned_from_5_million_books)
-`大数据,统计,创意,Geek` *2014-05-20 12:51:11* ****
+`大数据,统计,创意,Geek,数据可视化` *2014-05-20 12:51:11* ****
 > There are many usages of this data, but the bottom line is that the historical record is being digitized. Google has started to digitize 15 million books. That's 12 percent of all the books that have ever been published. It's a sizable chunk of human culture. There's much more in culture: there's manuscripts, there newspapers, there's things that are not text, like art and paintings. These all happen to be on our computers, on computers across the world. And when that happens, that will transform the way we have to understand our past, our present and human culture.
 > 
 > {todo 完善后面的笔记} {WA}
