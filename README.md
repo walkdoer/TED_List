@@ -3,6 +3,12 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[Birke Baehr伯克·巴尔：我们食物体系的问题](http://www.ted.com/talks/birke_baehr_what_s_wrong_with_our_food_system?language=zh-cn#t-296742)
+`食物安全,转基因,有机农场` *2014-05-21 13:01:57* ****
+> Some people say organic or local food is more expensive, but is it really? With all these things I've been learning about the food system, it seems to me that we can either pay the farmer, or we can pay the hospital.
+> 
+>  next time you're at the grocery store, think local, choose organic, know your farmer and know your food.
+
 ###[我们从五百万本书里学到了什么](http://www.ted.com/talks/what_we_learned_from_5_million_books)
 `大数据,统计,创意,Geek,数据可视化` *2014-05-20 12:51:11* ****
 > There are many usages of this data, but the bottom line is that the historical record is being digitized. Google has started to digitize 15 million books. That's 12 percent of all the books that have ever been published. It's a sizable chunk of human culture. There's much more in culture: there's manuscripts, there newspapers, there's things that are not text, like art and paintings. These all happen to be on our computers, on computers across the world. And when that happens, that will transform the way we have to understand our past, our present and human culture.
