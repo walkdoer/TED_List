@@ -3,6 +3,11 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[如何令选择变得更加容易](http://v.163.com/movie/2014/4/D/9/M9MS5FGTS_M9MS5UID9.html)
+`选择,金融` *2014-05-22 12:40:46* ***
+> 让选择变得更加容易
+> {todo} {WA}
+
 ###[Birke Baehr伯克·巴尔：我们食物体系的问题](http://www.ted.com/talks/birke_baehr_what_s_wrong_with_our_food_system?language=zh-cn#t-296742)
 `食物安全,转基因,有机农场` *2014-05-21 13:01:57* ****
 > Some people say organic or local food is more expensive, but is it really? With all these things I've been learning about the food system, it seems to me that we can either pay the farmer, or we can pay the hospital.
