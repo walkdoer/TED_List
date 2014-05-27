@@ -3,6 +3,11 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[大卫·梅若演示：一种会思考的玩具](http://www.ted.com/talks/david_merrill_demos_siftables_the_smart_blocks?language=zh-cn)
+`科技,创新` *2014-05-27 13:14:59* ***
+> 交互形式的创新
+
+
 ###[思考角度决定一切](http://v.163.com/movie/2013/9/4/9/M97IMFBDP_M97IMIR49.html)
 `` *2014-05-27 12:44:46* ***
 > {todo}
