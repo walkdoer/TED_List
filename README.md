@@ -3,6 +3,10 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[阿瑟·本杰明表演 ‘数学魔术](http://v.163.com/movie/2012/1/I/R/M8H3T7602_M8H3TPBIR.html)
+`数学,魔术` *2014-05-28 12:28:49* ****
+> 开挂了的计算
+
 ###[大卫·梅若演示：一种会思考的玩具](http://www.ted.com/talks/david_merrill_demos_siftables_the_smart_blocks?language=zh-cn)
 `科技,创新` *2014-05-27 13:14:59* ***
 > 交互形式的创新
