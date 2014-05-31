@@ -3,6 +3,19 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[I'm going to the moon. Who's with me?(By Bill Stone)](http://v.163.com/movie/2014/6/F/U/M9SD9PRKT_M9SDQU3FU.html)
+`探险,科技,太空,交通,历史,洞穴` *2014-05-31 17:59:22* ****
+
+> 私人太空探索的3个支柱：可回收的飞行器，轨道停留处(Orbital hotel, workshops)，太空加油站
+> Bill Stone在这个大会上霸气而由令人信服的说了他的承诺：
+> We're living in one of the most exciting times in history. We're at a magical confluence where private wealth and imagination are driving the demand for access to space. The orbital refueling stations I've just described could create an entirely new industry and provide the final key for opening space to the general exploration. To bust the paradigm a radically different approach is needed. We can do it by jump-starting with an industrial Lewis and Clark expedition to Shackleton crater, to mine the moon for resources, and demonstrate they can form the basis for a profitable business on orbit.
+> 
+> Talk about space always seems to be hung on ambiguities of purpose and timing. I would like to close here by putting a stake in the sand at TED. I intend to lead that expedition. (Applause) It can be done in seven years with the right backing. Those who join me in making it happen will become a part of history and join other bold individuals from time past who, had they been here today, would have heartily approved.
+> 
+> There was once a time when people did bold things to open the frontier. We have collectively forgotten that lesson. Now we're at a time when boldness is required to move forward. 100 years after Sir Ernest Shackleton wrote these words, I intend to plant an industrial flag on the moon and complete the final piece that will open the space frontier, in our time, for all of us. Thank you. (Applause)
+>
+> 边疆的探索需要的是勇士,这个时代勇士太少，Go! 真期待有生之年可以见到太空时代的开启
+
 ###[网络虚拟合唱团](http://v.163.com/movie/2013/4/F/S/M8SI0TJOK_M90T6IKFS.html)
 `合唱,音乐,互联网` *2014-05-29 13:03:08* ****
 > 通过互联网来进行合唱表演
