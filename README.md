@@ -3,6 +3,26 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用\*标志*
 
+###[The psychology of time](http://v.163.com/movie/2011/9/I/L/M7CEB9FAL_M7CEBDOIL.html?recomend=2)
+`生活方式,时间` *2014-06-01 11:57:56* ***
+
+Time Perspective(TP): The study of how individuals divide the flow of human experience into different time frames or time zones
+- present oriented: what 's going 
+- past oriented: what was
+- future oriented: what will be
+
+Balancing time perspective
+
+- Past Positive: high  高度依赖积极经历
+- future: moderately   适度依赖未来 
+- present-hedonism: moderate 适度依赖享受现在
+
+So the optimal temporal mix is what you get from the past -- past-positive gives you roots. You connect your family, identity and your self. What you get from the future is wings to soar to new destinations, new challenges. What you get from the present hedonism is the energy, the energy to explore yourself, places, people, sensuality.
+
+
+
+
+
 ###[I'm going to the moon. Who's with me?(By Bill Stone)](http://v.163.com/movie/2014/6/F/U/M9SD9PRKT_M9SDQU3FU.html)
 `探险,科技,太空,交通,历史,洞穴` *2014-05-31 17:59:22* ****
 
