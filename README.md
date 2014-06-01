@@ -114,7 +114,7 @@ So the optimal temporal mix is what you get from the past -- past-positive gives
 
 
 ###[戴·罗伊: 单词的诞生](http://v.163.com/movie/2011/12/J/0/M8H1NPQM9_M8H1VU4J0.html)
-`统计,数据可视化,家庭,数字化` *2014年05月14日13:41:27* ***** loop
+`统计,数据可视化,家庭,数字化` *2014-05-14 13:41:27 $$ 2014-06-01 17:04:10* ***** loop
 > 信息量太大，需要重新观看做记录
 
 ###[让思想彼此交配](http://v.163.com/movie/2011/7/G/S/M78G97LDH_M78G9G9GS.html)
