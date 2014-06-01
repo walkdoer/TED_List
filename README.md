@@ -196,7 +196,7 @@ So the optimal temporal mix is what you get from the past -- past-positive gives
 ###[what good ideas come from?](http://www.ted.com/talks/steven_johnson_where_good_ideas_come_from?language=zh-cn)
 `idea,创新,创新的土壤,启发ME` *2014-04-15 12:57:29 $$ 2014-06-01 12:48:53* *****
 
-An Idea Is a Network
+An Idea, new idea is a new network of neurons.
 两个互补的想法的相遇是美好的。you have half of an idea, somebody else has the other half, and if you are in the right environment, they turn into something larger than the sum of theirs parts.
 liquid network: where you have lots of different ideas that are together, different background, different interests, jostling with each other,bouncing off each other.the environment that leads to innovation
 the slow hunch: 一些好的想法需要很长一段时间的孕育期。
