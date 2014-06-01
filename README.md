@@ -194,9 +194,14 @@ So the optimal temporal mix is what you get from the past -- past-positive gives
 > 当你不把钱花在自己身上的时候，金钱的确可以买到幸福。具有利他主义的消费能够惠及自己，惠及工作以及他人的。
 
 ###[what good ideas come from?](http://www.ted.com/talks/steven_johnson_where_good_ideas_come_from?language=zh-cn)
-`idea` *2014-04-15 12:57:29* *****
-> An Idea Is a Network
-> 两个互补的想法的相遇是美好的。
+`idea,创新,创新的土壤,启发ME` *2014-04-15 12:57:29 $$ 2014-06-01 12:48:53* *****
+
+An Idea Is a Network
+两个互补的想法的相遇是美好的。you have half of an idea, somebody else has the other half, and if you are in the right environment, they turn into something larger than the sum of theirs parts.
+liquid network: where you have lots of different ideas that are together, different background, different interests, jostling with each other,bouncing off each other.the environment that leads to innovation
+the slow hunch: 一些好的想法需要很长一段时间的孕育期。
+**Connecting VS Protecting, 让想法可以沟通，而不是用专利保护来设置沟通的障碍**
+chance favors the connected mind
 
 ###[为什么健康的生活方式几乎把我害死](http://v.163.com/movie/2013/8/Q/K/M94IULLG6_M94IVH0QK.html)
 `生活方式` *2014-04-14 20:08:18* ****
