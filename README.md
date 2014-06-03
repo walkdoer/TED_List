@@ -6,7 +6,7 @@
 - *loop: 个人觉得值得重复看*
 
 ###[我如何爱上一条鱼(By Dan Barber)](http://v.youku.com/v_show/id_XNDM3MjIzMzY4.html)[TED](http://www.ted.com/talks/dan_barber_how_i_fell_in_love_with_a_fish)
-`农业,未来,污染,食物,美食` *2014-06-03 22:33:07* ****
+`农业,未来,污染,食物,美食,有趣,幽默` *2014-06-03 22:33:07* ****
 > 想要喂饱这个世界？ 让我们开始问：我们怎么去喂养我们自己？ 或者更好的，我们怎么去建立一种环境 它可以让每一个团体 去养活自己？ 要做到那样,不要指望未来沿用现在的农业模型。 它已经过时了，而且很疲劳。 因为它过度依赖资本，化学，和机械， 而且它生产不出来真正的好食品。 取而代之，让我们看看生态模式。 它存在了20亿年 同时具有实战经验
 >
 >看看米格尔， 看看像米格尔这样的农民， 不只属于他们自己的农场， 它自我恢复，而不是消耗， 广义的农场 取代只是狭义的， 农民不再只是生产者， 而是关系专家， 因为他们 同时也是口味上的专家。 而且如果要我说实话， 他们是比我更好的厨师
@@ -313,8 +313,8 @@ chance favors the connected mind
 `无神论` *2014-04-01 12:49:58* **** loop
 > 宗教把身體和智慧結合起來
 
-###[Ken Robinson:认为学校扼杀创造力](http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html) 
-`教育,创新,启发` *2014-01-20 23:45:14* *****
+###[认为学校扼杀创造力(By Ken Robinson)](http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html) 
+`教育,创新,启发,改革,创造力,学校,学习` *2014-01-20 23:45:14* *****
 
 > Not prepare to be wrong, you'll never come up with anything ORIGINAL.
 > 
@@ -330,7 +330,7 @@ chance favors the connected mind
 
 
 
-###[Ken Robinson:展开学习革命](http://v.youku.com/v_show/id_XNDcyMTY5MTky.html)
+###[展开学习革命(By Ken Robinson)](http://v.youku.com/v_show/id_XNDcyMTY5MTky.html)
 `教育,创新,启发` *2014-01-21 20:44:01*  *****
 
 > Reform is no use anymore, because that's simply improving a broken model. what we need is not evolution, but a revolution in education  
@@ -343,12 +343,14 @@ chance favors the connected mind
 > 
 > 我们当前的教育模式是基于工业化，制造业的，这种教育模式是线性的，里面是循规蹈矩和批量生产的人。要改变为基于农业生产的原理的模式，人类的发展不是一个工业制造的过程，而是一个有机的过程。你无法预知人类的发展，你只能像农民一样建造使他们开花结果的环境
 
+
 ###[提姆·费里斯： 无所畏惧，学无止境](http://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything.html)
 `启发, 学习` *2014年01月25日00:05:06* ****
 
 > Fear is your friend, Fear is an indicator. Sometimes it shows you what you shouldn't do more often than not it shows you exactly what you should do. 
 > 
 > What's the worst that can happen?
+
 
 ###[格雷厄姆·希尔：少点用具 多点乐趣](http://v.youku.com/v_show/id_XMzc3NDg4NzI4.html)
 `启发, 学习` *2014年01月25日00:05:06* ***
@@ -410,6 +412,7 @@ chance favors the connected mind
 
 > 世界结束的10种方式,每一种都是可能的
 
+
 ###[马丁·里斯问道:这是我们最后的世纪吗?](http://v.youku.com/v_show/id_XNDYwMDA2MTE2.html)
 `科学` *2014年02月13日12:43:55* *****
 
@@ -460,10 +463,12 @@ chance favors the connected mind
 > 
 > 多元的视角有助于消除误解
 
+
 ###[邹奇奇(Adora Svitak):大人能从小孩身上学到什么](http://v.youku.com/v_show/id_XNDYwMDI3Njky.html)
 `知识,教育` *2014年03月05日12:58:04* *****
 
 > Blow me away
+
 
 ###[基弗尔·杜雷:通过修修补补来传授一堂生命课程]()
 `教育` *2014年03月05日13:00:42* ***
