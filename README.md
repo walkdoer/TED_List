@@ -5,10 +5,20 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[我如何爱上一条鱼(By Dan Barber)](http://v.youku.com/v_show/id_XNDM3MjIzMzY4.html)[TED](http://www.ted.com/talks/dan_barber_how_i_fell_in_love_with_a_fish)
+`农业,未来,污染,食物,美食` *2014-06-03 22:33:07* ****
+> 想要喂饱这个世界？ 让我们开始问：我们怎么去喂养我们自己？ 或者更好的，我们怎么去建立一种环境 它可以让每一个团体 去养活自己？ 要做到那样,不要指望未来沿用现在的农业模型。 它已经过时了，而且很疲劳。 因为它过度依赖资本，化学，和机械， 而且它生产不出来真正的好食品。 取而代之，让我们看看生态模式。 它存在了20亿年 同时具有实战经验
+>
+>看看米格尔， 看看像米格尔这样的农民， 不只属于他们自己的农场， 它自我恢复，而不是消耗， 广义的农场 取代只是狭义的， 农民不再只是生产者， 而是关系专家， 因为他们 同时也是口味上的专家。 而且如果要我说实话， 他们是比我更好的厨师
+>
+> {todo} {WA}
+
+
 ###[你存钱的能力跟你用的语言有关？](http://v.163.com/movie/2013/2/V/B/M9238LM50_M9238RVVB.html)
 `经济,储蓄` *2014-06-02 23:00:41* ***
 
 > 储蓄率与所讲语言的关系
+
 
 ###[The psychology of time](http://v.163.com/movie/2011/9/I/L/M7CEB9FAL_M7CEBDOIL.html?recomend=2)
 `生活方式,时间` *2014-06-01 11:57:56* ***
@@ -25,9 +35,6 @@ Balancing time perspective
 - present-hedonism: moderate 适度依赖享受现在
 
 So the optimal temporal mix is what you get from the past -- past-positive gives you roots. You connect your family, identity and your self. What you get from the future is wings to soar to new destinations, new challenges. What you get from the present hedonism is the energy, the energy to explore yourself, places, people, sensuality.
-
-
-
 
 
 ###[I'm going to the moon. Who's with me?(By Bill Stone)](http://v.163.com/movie/2014/6/F/U/M9SD9PRKT_M9SDQU3FU.html)
