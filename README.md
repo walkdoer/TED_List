@@ -4,11 +4,18 @@
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
 - *loop: 个人觉得值得重复看*
+###[一探神经元 何以筑文明(By VS Ramachandran)](http://www.ted.com/talks/vs_ramachandran_the_neurons_that_shaped_civilization?language=zh-cn)
+`神经元,大脑,进化` *2014-06-09 00:20:45* ****
+
+The imitation of complex skills is what we call culture and is the basis of civilization
+
+{todo 补充笔记} {WA}
+
 
 ###[丹尼斯达顿解释达尔文主义的美的理论](http://www.ted.com/talks/denis_dutton_a_darwinian_theory_of_beauty?language=zh-cn)
 `达尔文,进化论,美,理论` *2014-06-08 00:02:06* ***
 
-> 艺术、音乐和其他”美“的事物，不仅仅只是“主观感受“，而是深深植根于人类天性与进化起源的核心部分。
+ 艺术、音乐和其他”美“的事物，不仅仅只是“主观感受“，而是深深植根于人类天性与进化起源的核心部分。
 
 ###[飞速讲述三个建筑故事](http://v.163.com/movie/2011/7/D/U/M7FARD63L_M7FARHPDU.html)
 `建筑,创意,有趣` *2014-06-04 13:49:30* ****
