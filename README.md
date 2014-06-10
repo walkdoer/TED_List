@@ -5,6 +5,13 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[论部落领导新时代(By Seth Godin)](http://v.163.com/movie/2014/3/N/9/M9LIBICG1_M9LIBMNN9.html)
+`运动` *2014-06-10 20:23:59* ****
+
+{WA}
+
+
+
 ###[科技能够解决我们的大问题吗？(BY Jason Pontin)](http://www.ted.com/talks/jason_pontin_can_technology_solve_our_big_problems?language=zh-cn#t-585279)
 `科技,未来` *2014-06-10 20:07:30* ***
 
