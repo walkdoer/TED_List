@@ -5,8 +5,20 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[科技能够解决我们的大问题吗？(BY Jason Pontin)](http://www.ted.com/talks/jason_pontin_can_technology_solve_our_big_problems?language=zh-cn#t-585279)
+`科技,未来` *2014-06-10 20:07:30* ***
+
+无法解决的大问题的原因
+- 政治系统的失败导致问题得不到关注
+- 对问题缺少了解
+- 民众没有强烈的诉求(可以对照Facebook,iphone)
+
+> 阿波罗计划已经成为科技能够解决大问题的象征
+
+
+
 ###[3D打印入门(By Lisa Harouni)](http://www.ted.com/talks/lisa_harouni_a_primer_on_3d_printing?language=zh-cn)
-`科技,3D打印机,制造业` *2014-06-10 19:15:54* ****
+`科技,3D打印机,制造业` *2014-06-10 19:15:54* ***
 虽然视频是2012年的，不过其中对3D打印机的一些介绍还是挺有启发的
 
 ###[一探神经元 何以筑文明(By VS Ramachandran)](http://www.ted.com/talks/vs_ramachandran_the_neurons_that_shaped_civilization?language=zh-cn)
