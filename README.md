@@ -4,6 +4,11 @@
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
 - *loop: 个人觉得值得重复看*
+
+###[3D打印入门(By Lisa Harouni)](http://www.ted.com/talks/lisa_harouni_a_primer_on_3d_printing?language=zh-cn)
+`科技,3D打印机,制造业` *2014-06-10 19:15:54* ****
+虽然视频是2012年的，不过其中对3D打印机的一些介绍还是挺有启发的
+
 ###[一探神经元 何以筑文明(By VS Ramachandran)](http://www.ted.com/talks/vs_ramachandran_the_neurons_that_shaped_civilization?language=zh-cn)
 `神经元,大脑,进化` *2014-06-09 00:20:45* ****
 
