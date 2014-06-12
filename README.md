@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[感应和响应](http://v.163.com/movie/2011/7/P/C/M7797KMDF_M779IB6PC.html?recomend=2)
+`` *2014-06-12 13:06:04* ***
+实时监控系统 real time control system
+
+sensor actuator
 
 ###[设计改变城市，创意成就舒适](http://v.163.com/movie/2013/2/V/0/M92TDGU04_M92TDNLV0.html)
 `建筑,家居,智能家居,小而精,创意,启发,有趣,城市规划` *2014-06-12 13:02:15* ****
