@@ -5,6 +5,24 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[走向兴盛的六大致命程序(By Niall Ferguson)](http://v.youku.com/v_show/id_XNDE1NjIzNzgw.html)
+`资本主义,西方,东方,经济,历史` *2014-06-14 17:03:55* ****
+
+演讲者将西方过去得以强大的原因总结并比喻成6大致命APP
+
+- Competition
+- The Scientific Revolution
+- Property Rights
+- Modern Medicine
+- The Comsumer society
+- the work ethic
+
+提及人物:亚当密斯
+感兴趣点：文明的定义
+
+{WA}
+
+
 ###[感应和响应](http://v.163.com/movie/2011/7/P/C/M7797KMDF_M779IB6PC.html?recomend=2)
 `` *2014-06-12 13:06:04* ***
 实时监控系统 real time control system
