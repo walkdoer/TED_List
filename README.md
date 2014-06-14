@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[中国工人的声音(By 张彤禾)](http://v.youku.com/v_show/id_XNTExNjk3MTE2.html)
+`工人,学习,感动,启发` *2014-06-14 17:25:31* *****
+
+> {todo} {WA}
+
 ###[走向兴盛的六大致命程序(By Niall Ferguson)](http://v.youku.com/v_show/id_XNDE1NjIzNzgw.html)
 `资本主义,西方,东方,经济,历史` *2014-06-14 17:03:55* ****
 
