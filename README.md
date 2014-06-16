@@ -5,6 +5,13 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[珊瑚(和编织)的美丽数学(By Margaret Wertheim)](http://v.youku.com/v_show/id_XNTY4OTQyMTg0.html?from=y1.5-edu-index-3968-7462.87723.11-1)
+`科学,编织,数学,空间` *2014-06-16 13:46:10* ****
+
+学习科学的另外一种方式
+{todo 补充笔记}
+{WA}
+
 ###[创意成就未来(By Graham Fink)](http://v.youku.com/v_show/id_XNzIwMDIyNjM2.html?from=y1.5-edu-index-3968-7462.93741.1-1)
 `设计,创意,公益` *2014-06-15 23:46:52* ***
 
