@@ -6,7 +6,10 @@
 - *loop: 个人觉得值得重复看*
 
 
+###[斯托加茨谈"同步"](http://v.youku.com/v_show/id_XNTc4MDQzMjcy.html)
+`同步,物理` *2014-06-25 22:56:30* ***
 
+鱼群和鸟群的同步现象,
 
 ###[城市与企业中的奇妙数学](http://v.youku.com/v_show/id_XNTY4OTI2OTM2.html)
 `城市,发展,数学,启发` *2014-06-19 13:06:38* **** loop
