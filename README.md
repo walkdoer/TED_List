@@ -5,6 +5,13 @@
 
 - *loop: 个人觉得值得重复看*
 
+
+
+
+###[城市与企业中的奇妙数学](http://v.youku.com/v_show/id_XNTY4OTI2OTM2.html)
+`城市,发展,数学,启发` *2014-06-19 13:06:38* **** loop
+{todo} {WA}
+
 ###[珊瑚(和编织)的美丽数学(By Margaret Wertheim)](http://v.youku.com/v_show/id_XNTY4OTQyMTg0.html?from=y1.5-edu-index-3968-7462.87723.11-1)
 `科学,编织,数学,空间` *2014-06-16 13:46:10* ****
 
