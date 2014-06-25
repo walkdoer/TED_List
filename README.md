@@ -5,6 +5,10 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[非洲的分形结构(By Ron Eglash)](http://v.youku.com/v_show/id_XNTY4OTM0MjM2.html)
+`数学,分形` *2014-06-25 23:47:32* ****
+
+{WA} {todo 自组织，分形图形 }
 
 ###[斯托加茨谈"同步"](http://v.youku.com/v_show/id_XNTc4MDQzMjcy.html)
 `同步,物理` *2014-06-25 22:56:30* ***
