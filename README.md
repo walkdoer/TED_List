@@ -5,6 +5,15 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[计算万物的理论(BY Stephen Wolfram)](http://v.youku.com/v_show/id_XNTY4OTQ3MjEy.html)
+`数学,大数据,wolfram` *2014-06-26 12:59:20* ***** loop
+
+**computation universe** 计算空间
+**systematizing knowledge** 知识系统化
+use knowed knowledge to compute fresh new answers to specific questions.
+
+[演讲者的个人博客](http://www.stephenwolfram.com/)
+
 ###[非洲的分形结构(By Ron Eglash)](http://v.youku.com/v_show/id_XNTY4OTM0MjM2.html)
 `数学,分形` *2014-06-25 23:47:32* ****
 
