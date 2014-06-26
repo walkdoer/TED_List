@@ -5,6 +5,12 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[建立种子圣殿](http://v.youku.com/v_show/id_XNDg0MTk5MzI4.html)
+`建筑,奇思妙想` *2014-06-26 23:18:43* ***
+
+里面提及了一些非常有趣的建筑创意
+
+
 ###[计算万物的理论(BY Stephen Wolfram)](http://v.youku.com/v_show/id_XNTY4OTQ3MjEy.html)
 `数学,大数据,wolfram` *2014-06-26 12:59:20* ***** loop
 
@@ -22,7 +28,7 @@ use knowed knowledge to compute fresh new answers to specific questions.
 ###[斯托加茨谈"同步"](http://v.youku.com/v_show/id_XNTc4MDQzMjcy.html)
 `同步,物理` *2014-06-25 22:56:30* ***
 
-鱼群和鸟群的同步现象,
+鱼群和鸟群的同步现象
 
 ###[城市与企业中的奇妙数学](http://v.youku.com/v_show/id_XNTY4OTI2OTM2.html)
 `城市,发展,数学,启发` *2014-06-19 13:06:38* **** loop
