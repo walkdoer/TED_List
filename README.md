@@ -5,6 +5,12 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[谈"从摇篮到摇篮"理念(By William McDonough)](http://v.youku.com/v_show/id_XNDg0MTg3ODY4.html)
+`建筑,环保,城市规划` *2014-06-27 13:49:04* ****
+
+{todo 记录笔记}
+{WA}
+
 ###[建立种子圣殿](http://v.youku.com/v_show/id_XNDg0MTk5MzI4.html)
 `建筑,奇思妙想` *2014-06-26 23:18:43* ***
 
