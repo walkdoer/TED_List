@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[在生态圈2中的生活](http://v.youku.com/v_show/id_XNDk4NzcwODEy.html)
+`生态系统,地球` *2014-06-30 13:00:03* ***
+
+演讲者讲了她在生态圈2号中的生活，以及出来之后对外部世界的思考
+
 ###[谈"从摇篮到摇篮"理念(By William McDonough)](http://v.youku.com/v_show/id_XNDg0MTg3ODY4.html)
 `建筑,环保,城市规划` *2014-06-27 13:49:04* ****
 
