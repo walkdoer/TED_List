@@ -5,6 +5,17 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[自我修复的建筑学](http://v.youku.com/v_show/id_XNDk4NzcyNjE2.html)
+`建筑,生物` *2014-06-30 21:05:11* ****
+
+利用用生物特性的材料作为建筑材料，可以与自然联系起来的建筑，例如和建筑的表面可以和“大气”进行对话，可以生长的建筑，可以自我修复，或者对所处环境进行更复杂的反应。
+
+视频中介绍原生细胞技术(生产出外壳，材料和最早的石灰石一样)来修复威尼斯底部的木桩
+> And finally, an observer in the future, marveling at a beautiful structure in the environment,may find it almost impossible to tell whether this structure has been created by a natural process or an artificial one.
+
+> I believe that the only way that it is possible for us to construct genuinely sustainable homes and cities is by connecting them to nature.
+
+
 ###[在生态圈2中的生活](http://v.youku.com/v_show/id_XNDk4NzcwODEy.html)
 `生态系统,地球` *2014-06-30 13:00:03* ***
 
