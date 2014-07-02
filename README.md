@@ -5,6 +5,14 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[How to speak so that people want to listen(By Julian Treasure)](https://www.youtube.com/watch?v=eIho2S0ZahI)
+`演讲,技能,启发` *2014-07-02 18:36:44* ****
+
+如何让人听你讲话
+{todo 笔记}
+{WA}
+
+
 ###[改造市郊](http://v.youku.com/v_show/id_XNDk4NzY1ODE2.html)
 `城市规划,改造` *2014-07-02 13:48:31* ***
 
