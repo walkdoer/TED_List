@@ -4,6 +4,11 @@
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
 - *loop: 个人觉得值得重复看*
+###[ How to make hard choices(By Ruth Chang)](https://www.youtube.com/watch?v=8GQZuzIdeQQ)
+`生活` *2014-07-02 18:57:52* ***
+
+{WA}
+{todo 记笔记}
 
 ###[How to speak so that people want to listen(By Julian Treasure)](https://www.youtube.com/watch?v=eIho2S0ZahI)
 `演讲,技能,启发` *2014-07-02 18:36:44* ****
