@@ -4,6 +4,13 @@
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
 - *loop: 个人觉得值得重复看*
+
+
+###[仿生技术进行式(By 珍妮·班娜斯)](http://v.youku.com/v_show/id_XNTg2NTE2Mjk2.html)
+`生物,仿生` *2014-07-03 13:00:00 * ***
+
+从大自然中寻找设计思路
+
 ###[ How to make hard choices(By Ruth Chang)](https://www.youtube.com/watch?v=8GQZuzIdeQQ)
 `生活` *2014-07-02 18:57:52* ***
 
