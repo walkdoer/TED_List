@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[宏观历史(By David Christian)](http://v.youku.com/v_show/id_XNDMxNjg2NDg4.html)
+`历史,地球,宇宙,人类,启发` *2014-07-07 13:01:54* *****
+
+{WA}
+
 ###[基于智能手机的迷你机器人](http://v.163.com/movie/2013/3/Q/M/M9239L2Q1_M9239PCQM.html)
 `机器人` *2014-07-03 13:03:00* ***
 
