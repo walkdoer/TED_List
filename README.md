@@ -4,6 +4,16 @@
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
 - *loop: 个人觉得值得重复看*
+###[我们是从水生猿类进化而来的(By Elaine Morgan)](http://v.163.com/movie/2011/7/I/C/M7CTOM385_M7E3QG4IC.html)[ted](http://www.ted.com/talks/elaine_morgan_says_we_evolved_from_aquatic_apes)
+`生物,进化,颠覆,启发` *2014-07-08 12:30:39* ***** loop
+
+对“人类是由大猩猩进化而来“的传统理论的颠覆，人类是由水生猿类进化而来的。
+
+> So I get the impression that some parts of the scientific establishment are morphing into a kind of priesthood. But you know, that makes me feel good, because Richard Dawkins has told us how to treat a priesthood. (Laughter) He says, "Firstly, you've got to refuse to give it all the excessive awe and reverence it's been trained to receive." Right. I'll go ahead with that. And secondly, he says, "You must never be afraid to rock the boat." I'll go along with that too. Thank you very much.
+
+{WA}
+
+  
 
 ###[宏观历史(By David Christian)](http://v.youku.com/v_show/id_XNDMxNjg2NDg4.html)
 `历史,地球,宇宙,人类,启发` *2014-07-07 13:01:54* *****
