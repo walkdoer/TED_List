@@ -4,6 +4,12 @@
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
 - *loop: 个人觉得值得重复看*
+
+###[再现以前的纽约市(By Eric Sanderson)](http://v.163.com/movie/2012/1/L/7/M7A108PQV_M7A10J4L7.html)
+`城市,绿化,历史,纽约` *2014-07-08 13:10:21* ***
+
+用影像技术队纽约的过去进行重现，在对比中去思考未来的城市: 生物多样性，活力
+
 ###[我们是从水生猿类进化而来的(By Elaine Morgan)](http://v.163.com/movie/2011/7/I/C/M7CTOM385_M7E3QG4IC.html)[ted](http://www.ted.com/talks/elaine_morgan_says_we_evolved_from_aquatic_apes)
 `生物,进化,颠覆,启发` *2014-07-08 12:30:39* ***** loop
 
