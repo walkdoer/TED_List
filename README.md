@@ -5,6 +5,15 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[深海探险(By Robert Ballard)](http://v.163.com/movie/2013/4/S/8/M8RTKOLLL_M91A5GRS8.html)
+`探险,海洋,深海,启发,视野` *2014-07-09 23:38:47* *****
+
+演讲中一段话很有启发性
+> we want to create the classroom of tomorrow. ... This is a young lady, not watching a football game, not watching a basketball game. Watching exploration live from thousands of miles away, and it's just dawning on her what she's seeing. And when you get a jaw drop, you can inform. You can put so much information into that mind, it's in full [receiving] mode,This, I hope, will be a future engineer or a future scientist in the battle for truth.
+
+另外一段话，为什么我们对自己星球72%面积的海洋没有一个大规模的探索呢？
+> Why do we have programs to build habitation on Mars, and we have programs to look at colonizing the moon, but we do not have a program looking at how we colonize our own planet?
+
 ###[再现以前的纽约市(By Eric Sanderson)](http://v.163.com/movie/2012/1/L/7/M7A108PQV_M7A10J4L7.html)
 `城市,绿化,历史,纽约` *2014-07-08 13:10:21* ***
 
