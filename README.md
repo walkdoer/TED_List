@@ -606,7 +606,7 @@ chance favors the connected mind
 
 
 ###[吉兒泰勒-你腦內的兩個世界](http://www.ted.com/talks/lang/zh-cn/jill_bolte_taylor_s_powerful_stroke_of_insight.html)
-`大脑` *2014年02月11日20:36:23* *****
+`大脑` *2014-02-11 20:36:23 , 2014-07-09 12:51:46* ***** loop
 
 > 无法用语言描述的视频
 
