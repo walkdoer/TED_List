@@ -5,8 +5,16 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[My wish: Protect our oceans(By Sylvia Earle)](http://v.163.com/movie/2013/4/P/D/M8RTKOLLL_M91A4RKPD.html)
+`海洋,环保,灭绝,潜水,梦想` *2014-07-10 13:50:33* ***** loop
+
+{todo 完善笔记} {WA}
+
+> I'm haunted by the thought of what Ray Anderson calls "tomorrow's child," asking why we didn't do something on our watch to save sharks and bluefin tuna and squids and coral reefs and the living ocean while there still was time. Well, now is that time. I hope for your help to explore and protect the wild ocean in ways that will restore the health and, in so doing, secure hope for humankind. Health to the ocean means health for us.
+
+
 ###[深海探险(By Robert Ballard)](http://v.163.com/movie/2013/4/S/8/M8RTKOLLL_M91A5GRS8.html)
-`探险,海洋,深海,启发,视野` *2014-07-09 23:38:47* *****
+`探险,海洋,深海,启发,视野,梦想` *2014-07-09 23:38:47* *****
 
 演讲中一段话很有启发性
 > we want to create the classroom of tomorrow. ... This is a young lady, not watching a football game, not watching a basketball game. Watching exploration live from thousands of miles away, and it's just dawning on her what she's seeing. And when you get a jaw drop, you can inform. You can put so much information into that mind, it's in full [receiving] mode,This, I hope, will be a future engineer or a future scientist in the battle for truth.
