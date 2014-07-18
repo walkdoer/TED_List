@@ -5,6 +5,12 @@
 
 - *loop: 个人觉得值得重复看*
 
+
+###[预见太空未来(By 伯特·鲁坦)](http://v.163.com/movie/2012/1/P/U/M8GV1NMA7_M8H1BUBPU.html)
+`太空,未来,征服` *2014-07-18 13:41:38* ***
+
+{todo 部分观点还是有点启发}
+
 ###[My wish: Protect our oceans(By Sylvia Earle)](http://v.163.com/movie/2013/4/P/D/M8RTKOLLL_M91A4RKPD.html)
 `海洋,环保,灭绝,潜水,梦想` *2014-07-10 13:50:33* ***** loop
 
