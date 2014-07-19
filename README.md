@@ -5,6 +5,12 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[垂直养殖和水培：公寓里的种植园(By Britta Riley)](http://v.163.com/movie/2013/11/P/C/M9CNMU8G7_M9CQ3DMPC.html)
+`城市,绿化,种植,公寓,启发` *2014-07-19 23:16:23* ****
+
+看到之后就想自己实现一套[windowsfarm](http://www.windowfarms.com/)
+
+
 ###[谈未来5000天后的网络世界(By 凯文·凯利)](http://v.163.com/movie/2012/1/Q/1/M8GV1NMA7_M8H1BIIQ1.html)
 `未来,网络,发展,物联网` *2014-07-18 23:08:42* **** loop
 
