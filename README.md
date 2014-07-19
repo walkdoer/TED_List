@@ -5,8 +5,18 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[一個洛杉機中南區的游擊園丁(By Ron Finley)](http://www.ted.com/talks/ron_finley_a_guerilla_gardener_in_south_central_la?language=zh-tw)
+`城市,种植,绿化,园丁,启发,本地食品,社区文化` *2014-07-18 23:20:09* ****
+
+使用城市的闲置土地进行食物的种植，演讲者讲了自己的几个想法
+- 儿童会吃自己亲手种出来的食物
+- 可以成为一种亲子活动
+- 改善社区文化和社区生态环境
+
+> So basically, if you want to meet with me, you know, if you want to meet, don't call me if you want to sit around in cushy chairs and have meetings where you talk about doing some shit -- where you talk about doing some shit. If you want to meet with me, come to the garden with your shovel so we can plant some shit.
+
 ###[垂直养殖和水培：公寓里的种植园(By Britta Riley)](http://v.163.com/movie/2013/11/P/C/M9CNMU8G7_M9CQ3DMPC.html)
-`城市,绿化,种植,公寓,启发` *2014-07-19 23:16:23* ****
+`城市,绿化,种植,公寓,启发` *2014-07-18 20:16:23* ****
 
 看到之后就想自己实现一套[windowsfarm](http://www.windowfarms.com/)
 
