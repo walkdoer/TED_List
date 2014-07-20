@@ -484,33 +484,39 @@ chance favors the connected mind
 > 我今天的演讲是从谈论“边界”问题开始的， 如果我们能除去这一边界， 剩下的就是我们无边无际的想像力了。
 
 
-###[奈吉尔马什：如何实现工作与生活的平衡](http://www.ted.com/talks/nigel_marsh_how_to_make_work_life_balance_work?language=zh-cn)
-`時間管理，生活質量` *2014-04-11 12:40:58* ***** loop
-> 對我個人有啟發的幾句話：
-> Now the first step in solving any problem is acknowledging the reality of the situation you're in. And the reality of  the society that we're in is there are thousands and thousands of people out there leading lives of quiet, screaming desperation, where they work long, hard hours at jobs they hate to enable them to buy things they don't need to impress people they don't like  
-> If you don't design your life, someone else will design it for you, and you may just not like their idea of balance  
->  it's particularly important that you never put the quality of your life in the hands of a commercial corporation. Now I'm not talking here just about the bad companies -- the "abattoirs of the human soul," as I call them.Because commercial companies are inherently designed to get as much out of you [as] they can get away with. It's in their nature; it's in their DNA; it's what they do.We have to be responsible for setting and enforcing the boundaries that we want in our life.  
-> The third observation is we have to be careful with the time frame that we choose upon which to judge our balance.A day is too short; "after I retire" is too long. There's got to be a middle way  
-> Lovely though physical exercise may be, there are other parts to life -- there's the intellectual side; there's the emotional side; there's the spiritual side. And to be balanced, I believe we have to attend to all of those areas -- not just do 50 stomach crunches  
-> my point is the small things matter. Being more balanced doesn't mean dramatic upheaval in your life. With the smallest investment in the right places, you can radically transform the quality of your relationships and the quality of your life. Moreover, I think, it can transform society. Because if enough people do it, we can change society's definition of success away from the moronically simplistic notion that the person with the most money when he dies wins, to a more thoughtful and balanced definition of what a life well lived looks like. And that, I think, is an idea worth spreading.  
+###[如何实现工作与生活的平衡(By 奈吉尔马什)](http://www.ted.com/talks/nigel_marsh_how_to_make_work_life_balance_work?language=zh-cn)
+`時間管理，生活質量` *2014-04-11 12:40:58, 2014-07-20 22:56:54* ***** loop
+ 對我個人有啟發的幾句話：
+>  Now the first step in solving any problem is acknowledging the reality of the situation you're in. **And the reality of  the society that we're in is there are thousands and thousands of people out there leading lives of quiet, screaming desperation, where they work long, hard hours at jobs they hate to enable them to buy things they don't need to impress people they don't like.**
+ If you don't design your life, someone else will design it for you, and you may just not like their idea of balance
+  it's particularly important that you never put the quality of your life in the hands of a commercial corporation. Now I'm not talking here just about the bad companies -- the "abattoirs of the human soul," as I call them.Because commercial companies are inherently designed to get as much out of you [as] they can get away with. It's in their nature; it's in their DNA; it's what they do.We have to be responsible for setting and enforcing the boundaries that we want in our life.
 
 
-###[伊莱·帕里泽：当心网上“过滤气泡”](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=zh-cn)
+有关time frame的这一段描述挺精彩:
+
+> The third observation is we have to be careful with the time frame that we choose upon which to judge our balance. Before I went back to work after my year at home, I sat down and I wrote out a detailed, step-by-step description of the ideal balanced day that I aspired to. And it went like this: wake up well rested after a good night's sleep. Have sex. Walk the dog. Have breakfast with my wife and children. Have sex again. (Laughter) Drive the kids to school on the way to the office. Do three hours' work. Play a sport with a friend at lunchtime. Do another three hours' work. Meet some mates in the pub for an early evening drink. Drive home for dinner with my wife and kids. Meditate for half an hour. Have sex. Walk the dog. Have sex again. Go to bed. (Applause) How often do you think I have that day? (Laughter) We need to be realistic. You can't do it all in one day. We need to elongate the time frame upon which we judge the balance in our life, but we need to elongate it without falling into the trap of the "I'll have a life when I retire, when my kids have left home, when my wife has divorced me, my health is failing, I've got no mates or interests left." (Laughter) A day is too short; "after I retire" is too long. There's got to be a middle way.
+
+
+ Lovely though physical exercise may be, there are other parts to life -- there's the intellectual side; there's the emotional side; there's the spiritual side. And to be balanced, I believe we have to attend to all of those areas -- not just do 50 stomach crunches  
+ **my point is the small things mattei**. Being more balanced doesn't mean dramatic upheaval in your life. **With the smallest investment in the right places, you can radically transform the quality of your relationships and the quality of your life**. Moreover, I think, it can transform society. Because if enough people do it, we can change **society's definition of success** away from the moronically simplistic notion that the person with the most money when he dies wins, to a more thoughtful and balanced definition of what a life well lived looks like. And that, I think, is an idea worth spreading.
+
+
+###[当心网上“过滤气泡”(By 伊莱·帕里泽)](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=zh-cn)
 `科技, 民主, 信息`  
->  它们都以不同的方式与个性化定制搭上边。 这会将我们很快地 推向这样一个世界—— 网络给我们显示它认为我们想要看到的信息， 而未必是我们需要的信息
->  你的“过滤泡沫”是你自己个人的 独一无二的信息世界—— 也就是你所生活其中的网络世界。 你的“过滤气泡”中包含了什么 取决于你是谁，也取决于你做的事情。 但问题是你不能决定什么信息可以通过“过滤气泡”  
-> 这些计算机算法 自身并没有编辑们 所具备的职业道德。 所以，假若让算法为我们去创建一个世界， 假若它们来决定我们能看到什么、不能看到什么， 那么，我们必须要确保 它们不仅仅只是围绕“相关性”而已。 我们得确保它们也会给我们展示 那些不合意的、具有挑战性的或重要的信息  
-> 
+它们都以不同的方式与个性化定制搭上边。 这会将我们很快地 推向这样一个世界—— 网络给我们显示它认为我们想要看到的信息， 而未必是我们需要的信息
+你的“过滤泡沫”是你自己个人的 独一无二的信息世界—— 也就是你所生活其中的网络世界。 你的“过滤气泡”中包含了什么 取决于你是谁，也取决于你做的事情。 但问题是你不能决定什么信息可以通过“过滤气泡”  
+这些计算机算法 自身并没有编辑们 所具备的职业道德。 所以，假若让算法为我们去创建一个世界， 假若它们来决定我们能看到什么、不能看到什么， 那么，我们必须要确保 它们不仅仅只是围绕“相关性”而已。 我们得确保它们也会给我们展示 那些不合意的、具有挑战性的或重要的信息  
+
 
 ###[西奥简森创造的新生物](http://www.ted.com/talks/theo_jansen_creates_new_creatures?language=zh-cn)
 `创意,乐趣,创造` *2014-04-09 12:42:32* ***
-> 很有意思的创造，演讲者描述的方式好像这个是真的生物一样，很可爱。
+很有意思的创造，演讲者描述的方式好像这个是真的生物一样，很可爱。
 
 
 ###[四轴飞行器灵活的运动性能](http://v.163.com/movie/2014/3/7/P/M9KC3BQ57_M9KEPUR7P.html)
 `飞行器, 硬件, 科技` *2014-04-08 12:54:32* ***** loop
-> BLOW MY MIND AWAY
-> 太厉害了
+BLOW MY MIND AWAY
+太厉害了
 
 ###[不要公开宣布个人目标](http://v.163.com/movie/2010/9/H/J/M77TJ4TC9_M9BTM2LHJ.html?recomend=1)
 `颠覆` *2014-04-08 12:25:09* ****
