@@ -484,6 +484,8 @@ chance favors the connected mind
 > 我今天的演讲是从谈论“边界”问题开始的， 如果我们能除去这一边界， 剩下的就是我们无边无际的想像力了。
 
 
+
+
 ###[了解可见的量子物体(By Aaron O’Connell)](http://v.163.com/movie/2013/5/P/U/M93FHI8KB_M93FHNIPU.html)
 `量子物理, 物理, 科普` *2014-07-23 13:04:20* ***
 
@@ -494,6 +496,12 @@ O’Connell 他认为,这个结果表明,量子力学超越了一切事物之间
 > 叠加：在量子力学中我们必须抱着这种想法,即物体在同一时段处于 不同可能形态的叠加。比如,一个非定域粒子在不同的地方,
 就处于不同形态的叠加。
 > 离域/非定域 这一概念是指物体在同一时间位于数个不同地方。
+
+
+###[在死之前，我想......(坎迪·张)](http://v.163.com/movie/2012/1/L/S/M8LD0V9UJ_M8M10G2LS.html)
+`死亡,社区,公共空间,分享` *2014-07-22 13:09:37* ****
+
+{todo 笔记} {WA}
 
 
 ###[如何实现工作与生活的平衡(By 奈吉尔马什)](http://www.ted.com/talks/nigel_marsh_how_to_make_work_life_balance_work?language=zh-cn)
