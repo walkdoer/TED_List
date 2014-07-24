@@ -5,6 +5,33 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[听到的色彩(By Neil Harbisson)](http://v.163.com/movie/2013/8/6/B/M94U0QSHH_M94U0UD6B.html)
+`医学,cyborg,半机械人,启发,科技,色盲` *2014-07-24 12:54:48* ****
+
+Artist Neil Harbisson从一出生起就是全色盲，但现在，他的大脑里安装了一个设备，可以将颜色转变成听得到的频率。甚至可以听见非可见光（紫外线）
+
+**非常喜欢给身体开发App的这个概念**
+
+> We should all think that knowledge comes from our senses, so if we extend our senses, we will consequently extend our knowledge. I think life will be much more exciting when we stop creating applications for mobile phones and we start creating applications for our own body. I think this will be a big, big change that we will see during this century.
+
+
+###[了解可见的量子物体(By Aaron O’Connell)](http://v.163.com/movie/2013/5/P/U/M93FHI8KB_M93FHNIPU.html)
+`量子物理, 物理, 科普` *2014-07-23 13:04:20* ***
+
+试图证明日常事物也遵循量子力 学。他所制造的设备可以使肉眼看见量子叠加——同时位于两个地方。
+O’Connell 他认为,这个结果表明,量子力学超越了一切事物之间的相互联系,正如他所说: “你与周围的联系决定了你是谁。”
+
+**涉及概念**
+> 叠加：在量子力学中我们必须抱着这种想法,即物体在同一时段处于 不同可能形态的叠加。比如,一个非定域粒子在不同的地方,
+就处于不同形态的叠加。
+> 离域/非定域 这一概念是指物体在同一时间位于数个不同地方。
+
+
+###[在死之前，我想......(坎迪·张)](http://v.163.com/movie/2012/1/L/S/M8LD0V9UJ_M8M10G2LS.html)
+`死亡,社区,公共空间,分享` *2014-07-22 13:09:37* ****
+
+{todo 笔记} {WA}
+
 ###[一個洛杉機中南區的游擊園丁(By Ron Finley)](http://www.ted.com/talks/ron_finley_a_guerilla_gardener_in_south_central_la?language=zh-tw)
 `城市,种植,绿化,园丁,启发,本地食品,社区文化` *2014-07-18 23:20:09* ****
 
@@ -483,25 +510,6 @@ chance favors the connected mind
 > 人的运动可以在物质世界中可以被 录制、重放和永久保留。 这样，舞蹈编排就可以被远程而且真实地传授， 迈克尔·乔丹著名的扣篮动作就可以 反反复复、实实在在地被重演。   
 > 我今天的演讲是从谈论“边界”问题开始的， 如果我们能除去这一边界， 剩下的就是我们无边无际的想像力了。
 
-
-
-
-###[了解可见的量子物体(By Aaron O’Connell)](http://v.163.com/movie/2013/5/P/U/M93FHI8KB_M93FHNIPU.html)
-`量子物理, 物理, 科普` *2014-07-23 13:04:20* ***
-
-试图证明日常事物也遵循量子力 学。他所制造的设备可以使肉眼看见量子叠加——同时位于两个地方。
-O’Connell 他认为,这个结果表明,量子力学超越了一切事物之间的相互联系,正如他所说: “你与周围的联系决定了你是谁。”
-
-**涉及概念**
-> 叠加：在量子力学中我们必须抱着这种想法,即物体在同一时段处于 不同可能形态的叠加。比如,一个非定域粒子在不同的地方,
-就处于不同形态的叠加。
-> 离域/非定域 这一概念是指物体在同一时间位于数个不同地方。
-
-
-###[在死之前，我想......(坎迪·张)](http://v.163.com/movie/2012/1/L/S/M8LD0V9UJ_M8M10G2LS.html)
-`死亡,社区,公共空间,分享` *2014-07-22 13:09:37* ****
-
-{todo 笔记} {WA}
 
 
 ###[如何实现工作与生活的平衡(By 奈吉尔马什)](http://www.ted.com/talks/nigel_marsh_how_to_make_work_life_balance_work?language=zh-cn)
