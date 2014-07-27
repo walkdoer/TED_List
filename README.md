@@ -5,6 +5,7 @@
 
 - *loop: 个人觉得值得重复看*
 
+
 ###[万亿分之一秒摄影(By Ramesh Raskar)](http://v.163.com/movie/2013/2/T/E/M8VTMEGAH_M8VTMI4TE.html)
 `科技,摄影,高速摄像,创新,惊讶` *2014-07-25 13:06:18* ****
 
@@ -445,11 +446,13 @@ So the optimal temporal mix is what you get from the past -- past-positive gives
 ###[阿瑟·本雅明: 神奇的斐波那契数列](http://www.ted.com/talks/arthur_benjamin_the_magic_of_fibonacci_numbers?language=zh-cn#t-367603)
 > 可爱的数学
 
-###[资本主义的困局：李世默:两种制度的传说](http://v.youku.com/v_show/id_XNTc3ODE1ODYw.html?from=y1.5-edu-index-3968-7462.64793.1-1)
-`政治,改革` *2014-05-06 13:04:24* ****
+###[两种制度的传说(By 李世默)](http://v.youku.com/v_show/id_XNTc3ODE1ODYw.html?from=y1.5-edu-index-3968-7462.64793.1-1)
+`政治,改革` *2014-05-06 13:04:24, 2014-07-27 12:05:03* ****
 > Meta-narratives that make universal claims failed us in the 20th century and are failing us in the 21st. Meta-narrative is the cancer that is killing democracy from the inside.
 >
 > The significance of China's example is not that it provides an alternative, but the demonstration that alternatives exist. Let us draw to a close this era of meta-narratives. Communism and democracy may both be laudable ideals, but the era of their dogmatic universalism is over. Let us stop telling people and our children there's only one way to govern ourselves and a singular future towards which all societies must evolve. It is wrong. It is irresponsible. And worst of all, it is boring. Let universality make way for plurality. Perhaps a more interesting age is upon us. Are we brave enough to welcome it?
+
+学到了一种思考的方式，就是不要相信你听到的，或者看到的，而是相信你自己进过分析得到的想法,不假思索的接受某一种观点是可怕的。
 
 ###[Clifford Stoll…无所不及](http://www.ted.com/talks/clifford_stoll_on_everything?language=zh-cn#t-79344)
 `科学,学习` *2014-05-05 12:53:56* **** loop
