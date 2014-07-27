@@ -5,6 +5,15 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[人性的冥思(By Chris Abani)](http://www.ted.com/talks/chris_abani_muses_on_humanity?language=zh-cn)[网易公开课](http://v.163.com/movie/2014/6/5/M/M9SDGMGAA_M9SDTDJ5M.html)
+`人文,人性,思考,非洲,屠杀` *2014-07-26 11:58:51,2014-07-27 12:04:26* ****
+
+现在看完觉得有一种东西被触动，但是不不理解是什么，过一段时间之后再看一遍吧{WA}
+
+一段非常有力量的话：
+> Every day, all of us here, we're building gods that have gone rampant, and it's time we started knocking them down and forgetting their names. It doesn't require a tremendous thing. All it requires is to recognize among us, every day -- the few of us that can see -- are surrounded by people like the ones I've told you.
+一段非常有力量的诗句：
+> "Libation, North Carolina, 1999. I offer to this ground, this gin. I imagine an old man crying here, out of the sight of the overseer. He pushes his tongue through a hole where his tooth would be, if he were whole. It aches in that space where his tooth would be, where his land would be, his house, his wife, his son, his beautiful daughter. He wipes sorrow from his face, and puts his thirsty finger to his thirsty tongue, and tastes the salt. I call a name that could be his. This is for you, old man. This gin, this salty earth."
 
 ###[万亿分之一秒摄影(By Ramesh Raskar)](http://v.163.com/movie/2013/2/T/E/M8VTMEGAH_M8VTMI4TE.html)
 `科技,摄影,高速摄像,创新,惊讶` *2014-07-25 13:06:18* ****
