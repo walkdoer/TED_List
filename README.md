@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[理查德·普雷斯顿与巨人树(By Richard Preston)](http://v.youku.com/v_show/id_XNTg2NTIxNzA0.html)
+`生态系统,爬树,环境保护` *2014-07-28 13:12:14* ****
+
+{todo 笔记}
+
 ###[人性的冥思(By Chris Abani)](http://www.ted.com/talks/chris_abani_muses_on_humanity?language=zh-cn)[网易公开课](http://v.163.com/movie/2014/6/5/M/M9SDGMGAA_M9SDTDJ5M.html)
 `人文,人性,思考,非洲,屠杀` *2014-07-26 11:58:51,2014-07-27 12:04:26* ****
 
