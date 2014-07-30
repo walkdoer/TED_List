@@ -629,19 +629,16 @@ BLOW MY MIND AWAY
 > 宗教把身體和智慧結合起來
 
 ###[认为学校扼杀创造力(By Ken Robinson)](http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html) 
-`教育,创新,启发,改革,创造力,学校,学习` *2014-01-20 23:45:14* *****
+`教育,创新,启发,改革,创造力,学校,学习,启发` *2014-01-20 23:45:14, 2014-07-30 13:02:33* ***** loop
 
 > Not prepare to be wrong, you'll never come up with anything ORIGINAL.
-> 
-> Born Artist, we don't grow into creativity, we grow out of it, we get educated out of it  
-> 
-> 学术学位的膨胀
-> 
-> 大脑不应该被分为多个部分，而是作为一个整体，才可以产生有价值的创意
-> 
-> 目前教育以利益为目的，就像我们开采地球一样
-> 
-> 多元化，个性化，充满活力
+
+> Born Artist, we don't grow into creativity, we grow out of it, we get educated out of it.
+
+- 学术学位的膨胀
+- 大脑不应该被分为多个部分，而是作为一个整体，才可以产生有价值的创意
+- 目前教育以利益为目的，就像我们开采地球一样
+- 多元化，个性化，充满活力
 
 
 
