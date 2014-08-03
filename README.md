@@ -5,6 +5,12 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[我的女儿，马拉拉(By Ziauddin Yousafzai)](http://open.163.com/movie/2014/7/S/O/M9UR098JI_M9UR4HISO.html)
+`教育,解放,女权,感动` *2014-08-03 11:20:57* ***
+
+> People ask me, what special is in my mentorship which has made Malala so bold and so courageous and so vocal and poised? I tell them, don't ask me what I did. Ask me what I did not do. I did not clip her wings, and that's all.
+
+
 ###[人类性进化的启示(By 克里斯·莱恩)](http://v.163.com/movie/2014/7/B/G/MA0EKH7UD_MA0QSEBBG.html)
 `性关系,人类,生活,婚姻` *2014-07-31 12:51:07* ***
 
