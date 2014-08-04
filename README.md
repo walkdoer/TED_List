@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[互联网中的秘密(By Jonathan Harris)](http://v.163.com/movie/2014/6/M/5/M9SD9TGU1_M9SDR4HM5.html)
+`互联网,数据可视化,数据分析,计算机` *2014-08-04 13:00:10* ***
+
+数据可视化，不过有些部分没有看懂, 所以{WA}.
+
 ###[我的女儿，马拉拉(By Ziauddin Yousafzai)](http://open.163.com/movie/2014/7/S/O/M9UR098JI_M9UR4HISO.html)
 `教育,解放,女权,感动` *2014-08-03 11:20:57* ***
 
@@ -383,30 +388,30 @@ So the optimal temporal mix is what you get from the past -- past-positive gives
 
 ###[阿瑟·本杰明表演 ‘数学魔术](http://v.163.com/movie/2012/1/I/R/M8H3T7602_M8H3TPBIR.html)
 `数学,魔术` *2014-05-28 12:28:49* ****
-> 开挂了的计算
+ 开挂了的计算
 
 ###[大卫·梅若演示：一种会思考的玩具](http://www.ted.com/talks/david_merrill_demos_siftables_the_smart_blocks?language=zh-cn)
 `科技,创新` *2014-05-27 13:14:59* ***
-> 交互形式的创新
+ 交互形式的创新
 
 
 ###[思考角度决定一切](http://v.163.com/movie/2013/9/4/9/M97IMFBDP_M97IMIR49.html)
 `` *2014-05-27 12:44:46* ***
-> {todo}
+ {todo}
 
 
 ###[我们现在都是半机器人](http://v.163.com/movie/2011/1/0/5/M77U8MAFG_M77U8UD05.html?recomend=2)
 `机器人,社会` *2014-05-26 13:09:34* ***
-> {todo} {WA}
+ {todo} {WA}
 
 ###[谈开源学习](http://open.163.com/movie/2014/5/7/V/M9PEEPIRD_M9PH2NK7V.html)
 `书籍,协作,分享,知识,Geek` *2014-05-26 12:49:54* ***
-> {todo}
+ {todo}
 
 ###[如何令选择变得更加容易](http://v.163.com/movie/2014/4/D/9/M9MS5FGTS_M9MS5UID9.html)
 `选择,金融` *2014-05-22 12:40:46* ***
-> 让选择变得更加容易
-> {todo} {WA}
+ 让选择变得更加容易
+ {todo} {WA}
 
 ###[Birke Baehr伯克·巴尔：我们食物体系的问题](http://www.ted.com/talks/birke_baehr_what_s_wrong_with_our_food_system?language=zh-cn#t-296742)
 `食物安全,转基因,有机农场` *2014-05-21 13:01:57* ****
@@ -417,12 +422,12 @@ So the optimal temporal mix is what you get from the past -- past-positive gives
 ###[我们从五百万本书里学到了什么](http://www.ted.com/talks/what_we_learned_from_5_million_books)
 `大数据,统计,创意,Geek,数据可视化` *2014-05-20 12:51:11* ****
 > There are many usages of this data, but the bottom line is that the historical record is being digitized. Google has started to digitize 15 million books. That's 12 percent of all the books that have ever been published. It's a sizable chunk of human culture. There's much more in culture: there's manuscripts, there newspapers, there's things that are not text, like art and paintings. These all happen to be on our computers, on computers across the world. And when that happens, that will transform the way we have to understand our past, our present and human culture.
-> 
-> {todo 完善后面的笔记} {WA}
+
+ {todo 完善后面的笔记} {WA}
 
 ###[冷漠的解药](http://v.163.com/movie/2011/7/I/K/M77979D2R_M779HNQIK.html)
 `社会,冷漠` *2014-05-19 12:41:37* ***** loop
-> 對公共空間的利用，媒體（媒體對政治活動的介紹（缺少如何參與的信息），讓人誤以為政治是一項觀賞性運動）
+ 對公共空間的利用，媒體（媒體對政治活動的介紹（缺少如何參與的信息），讓人誤以為政治是一項觀賞性運動）
 >
 > Heroes: collective,imperfect,voluntary; As long as we're teaching our kids that heroism starts when someone scratches a mark on your forehead, or someone tells you that you're part of a prophecy, they're missing the most important characteristic of leadership, which is that it comes from within. It's about following your own dreams -- uninvited, uninvited -- and then working with others to make those dreams come true.
 >
