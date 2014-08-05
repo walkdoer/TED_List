@@ -502,11 +502,23 @@ So the optimal temporal mix is what you get from the past -- past-positive gives
 > 很形象化的介绍难以理解的理论物理
 
 
-###[巴瑞·斯瓦兹-我们所遗失的智慧](http://v.163.com/movie/2009/2/4/9/M7OVAJ7JE_M7OVB8O49.html)
-`教育, 智慧, 发展, 慈善, 工作` ***** loop
-> {todo} {WA}
-> 看了一遍，里面提及的东西太多了 Do the Right Thing,可能是其中强调做多次的一句话了。
->
+###[巴瑞·斯瓦兹-我们所遗失的智慧(By Barry Schwartz)](http://v.163.com/movie/2009/2/4/9/M7OVAJ7JE_M7OVB8O49.html)
+`教育, 智慧, 发展, 慈善, 工作` *2014-04-20 12:45:24, 2014-08-05 12:44:58* ***** loop
+
+规则造就平庸,演讲者讲了芝加哥所有的幼儿园老师用同样的教案去教导学生。这种规范的运用是为了保证教学质量，但是同时也影响了教师的智慧的发展，能够防止灾难发生，但同时也造就了平庸
+
+
+> 亚里士多德告诉我们，“实践的智慧” “就是道德的意愿和道德的技能的结合”。 一个明智的人知道什么时候以及如何去对每一条规定做特殊的处理， 就像这些清洁工知道在为他人服务的时候什么时候可以不用在意工作本身的职能要求。 一个明智的人知道如何随机应变， 像鲁克就知道再去洗刷一次地板。 现实世界的问题常常很暧昧和模糊， 而且问题的内容还常常变换。 一个明智的人就像爵士乐手一样， 看着歌谱演奏的时候并不会完全遵从， 会即兴创作来与当时的情形和周围的人相适宜。 一个明智的人知道如何使用道德技能 为一个正确的目的而工作。 为他人服务，而不是应付他人。 最后，也许也是最重要的， 一个明智的人不是天生的，而是后天形成的。 智慧依赖于经验， 但不是依赖于所有的经验。 你需要时间去了解你正在服务的人。 你需要得到许可去做一些临时的决定， 尝试新的事物，常常会失败，那就从失败中学习。 你也需要一个明智的导师来指导你。
+
+
+当事情确实做错了， 我们会用两类工具去弥补
+
+- 规则条例
+- 激励制度
+
+> rules and incentives may make things better in the short run,but they create a downward spiral that makes them worse in the long run
+
+Do the Right Thing,可能是其中强调做多次的一句话了。
 > In many ways, it's what TED is all about. Wanting to do the right thing in the right way for the right reasons. This kind of wisdom is within the grasp of each and every one of us if only we start paying attention. Paying attention to what we do, to how we do it, and, perhaps most importantly, to the structure of the organizations within which we work, so as to make sure that it enables us and other people to develop wisdom rather than having it suppressed.
 
 
