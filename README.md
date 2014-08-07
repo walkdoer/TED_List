@@ -123,13 +123,15 @@ O’Connell 他认为,这个结果表明,量子力学超越了一切事物之间
 > I wish you would use all means at your disposal -- films, expeditions, the web, new submarines -- and campaign to ignite public support for a global network of marine protected areas
 
 ###[深海探险(By Robert Ballard)](http://v.163.com/movie/2013/4/S/8/M8RTKOLLL_M91A5GRS8.html)
-`探险,海洋,深海,启发,视野,梦想` *2014-07-09 23:38:47* *****
+`探险,海洋,深海,启发,视野,梦想` *2014-07-09 23:38:47, 2014-08-07 12:58:59* ***** loop
 
 演讲中一段话很有启发性
 > we want to create the classroom of tomorrow. ... This is a young lady, not watching a football game, not watching a basketball game. Watching exploration live from thousands of miles away, and it's just dawning on her what she's seeing. And when you get a jaw drop, you can inform. You can put so much information into that mind, it's in full [receiving] mode,This, I hope, will be a future engineer or a future scientist in the battle for truth.
 
 另外一段话，为什么我们对自己星球72%面积的海洋没有一个大规模的探索呢？
 > Why do we have programs to build habitation on Mars, and we have programs to look at colonizing the moon, but we do not have a program looking at how we colonize our own planet?
+
+许多发现都是意外发现的，想要找某样东西，却意外找到了另外激动人心的东西
 
 ###[再现以前的纽约市(By Eric Sanderson)](http://v.163.com/movie/2012/1/L/7/M7A108PQV_M7A10J4L7.html)
 `城市,绿化,历史,纽约` *2014-07-08 13:10:21* ***
