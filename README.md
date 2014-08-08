@@ -122,7 +122,7 @@ O’Connell 他认为,这个结果表明,量子力学超越了一切事物之间
 
 > I wish you would use all means at your disposal -- films, expeditions, the web, new submarines -- and campaign to ignite public support for a global network of marine protected areas
 
-###[深海探险(By Robert Ballard)](http://v.163.com/movie/2013/4/S/8/M8RTKOLLL_M91A5GRS8.html)
+###[深海探险(By Robert Ballard)](http://v.163.com/movie/2013/4/S/8/M8RTKOLLL_M91A5GRS8.html)[ted](http://www.ted.com/talks/robert_ballard_on_exploring_the_oceans)
 `探险,海洋,深海,启发,视野,梦想` *2014-07-09 23:38:47, 2014-08-07 12:58:59* ***** loop
 
 演讲中一段话很有启发性
@@ -530,12 +530,17 @@ Do the Right Thing,可能是其中强调做多次的一句话了。
 > In many ways, it's what TED is all about. Wanting to do the right thing in the right way for the right reasons. This kind of wisdom is within the grasp of each and every one of us if only we start paying attention. Paying attention to what we do, to how we do it, and, perhaps most importantly, to the structure of the organizations within which we work, so as to make sure that it enables us and other people to develop wisdom rather than having it suppressed.
 
 
-###[美妙生活的三个秘诀](http://v.163.com/movie/2011/1/F/K/M77U9ECN8_M77U9P2FK.html)
-`幸福` *2014-04-18 12:57:52* ****
+###[美妙生活的三个秘诀(By Neil Pasricha)](http://v.163.com/movie/2011/1/F/K/M77U9ECN8_M77U9P2FK.html)
+`幸福` *2014-04-18 12:57:52, 2014-08-08 12:36:53* ****
 
-> 最近一直在思考的问题从这个视频中找到了一点答案
+最近一直在思考的问题从这个视频中找到了一点答案
+> we've only got 100 years to enjoy it. And that's the sad part. The cashiers at your grocery store, the foreman at your plant, the guy tailgating you home on the highway, the telemarketer calling you during dinner, every teacher you've ever had, everyone that's ever woken up beside you, every politician in every country, every actor in every movie, every single person in your family, everyone you love, everyone in this room and you will be dead in a hundred years. Life is so great that we only get such a short time to experience and enjoy all those tiny little moments that make it so sweet. And that moment is right now, and those moments are counting down, and those moments are always, always, always fleeting.
 > You will never be as young as you are right now. And that's why I believe that if you live your life with a great attitude, choosing to move forward and move on whenever life deals you a blow, living with a sense of awareness of the world around you, embracing your inner three year-old and seeing the tiny joys that make life so sweet and being authentic to yourself, being you and being cool with that, letting your heart lead you and putting yourself in experiences that satisfy you, then I think you'll live a life that is rich and is satisfying, and I think you'll live a life that is truly awesome.
  
+**3As*
+- Attitude
+- Awareness
+- Authentic
  
 
 ###[伊丽莎白·吉尔伯特谈呵护创造力及减轻创作压力](http://v.163.com/movie/2012/1/T/U/M8NNM7QU4_M8NNQ29TU.html)
