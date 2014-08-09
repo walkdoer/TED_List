@@ -690,7 +690,9 @@ BLOW MY MIND AWAY
 
 
 ###[展开学习革命(By Ken Robinson)](http://v.youku.com/v_show/id_XNDcyMTY5MTky.html)
-`教育,创新,启发` *2014-01-21 20:44:01*  *****
+`教育,创新,启发` *2014-01-21 20:44:01, 2014-08-09 21:07:33*  ***** loop
+
+> And human resources are like natural resources; they're often buried deep. You have to go looking for them, they're not just lying around on the surface. You have to create the circumstances where they show themselves.
 
 > Reform is no use anymore, because that's simply improving a broken model. what we need is not evolution, but a revolution in education  
 > 
@@ -701,6 +703,7 @@ BLOW MY MIND AWAY
 > Life is not linear, it's organic, humman communities depend upon a diversity of talent, not a sigular conception of ability 人类社会取决于天赋的多样性，而不是单一的能力  
 > 
 > 我们当前的教育模式是基于工业化，制造业的，这种教育模式是线性的，里面是循规蹈矩和批量生产的人。要改变为基于农业生产的原理的模式，人类的发展不是一个工业制造的过程，而是一个有机的过程。你无法预知人类的发展，你只能像农民一样建造使他们开花结果的环境
+>  We have to go from what is essentially an industrial model of education, a manufacturing model, which is based on linearity and conformity and batching people. We have to move to a model that is based more on principles of agriculture. We have to recognize that human flourishing is not a mechanical process; it's an organic process. And you cannot predict the outcome of human development. All you can do, like a farmer, is create the conditions under which they will begin to flourish.
 
 
 ###[提姆·费里斯： 无所畏惧，学无止境](http://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything.html)
