@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[人类大脑最特别的地方在哪里(by Suzana Herculano-Houzel)](http://v.163.com/movie/2014/2/C/G/M9HKSI13F_M9HNAO4CG.html)
+`大脑,进化,煮饭` *2014-08-11 12:46:17* ***
+
+作者提出：煮饭是人类能够高智商的原因；有趣的观点
+
 
 ###[史上最伟大的机器(by John Graham-Cumming)](http://v.163.com/movie/2013/8/3/M/M94U13B28_M94U18I3M.html)
 `计算机,图灵,爱伦,机器` *2014-08-10 14:05:36*  ***
