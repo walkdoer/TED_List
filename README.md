@@ -5,6 +5,17 @@
 
 - *loop: 个人觉得值得重复看*
 
+
+###[移植细胞，而不是器官](http://v.163.com/movie/2012/1/K/7/M77U3FQBJ_M77U3P7K7.html)
+`医学,干细胞` *2014-08-12 12:45:16* ***
+
+> The research success that we celebrate today has been made possible by the curiosity and contribution and commitment of individual scientists and medical pioneers. Each one has his story. My story has been about my journey from organs to cells -- a journey through controversy, inspired by hope -- hope that, as we age, you and I may one day celebrate longevity with an improved quality of life.
+
+###[我如何驾驭风能(By)](http://v.youku.com/v_show/id_XNTY4OTQ3NjMy.html)
+`风能,梦想,实干` *2014-08-12 12:39:45* ****
+
+> So I would like to say something to all the people out there like me to the Africans, and the poor who are struggling with your dreams. God bless. Maybe one day you will watch this on the Internet. I say to you, trust yourself and believe. Whatever happens, don't give up. Thank you.
+
 ###[人类大脑最特别的地方在哪里(by Suzana Herculano-Houzel)](http://v.163.com/movie/2014/2/C/G/M9HKSI13F_M9HNAO4CG.html)
 `大脑,进化,煮饭` *2014-08-11 12:46:17* ***
 
