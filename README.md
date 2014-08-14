@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[将能源从电网中解放出来Freeing energy from the grid(By Justin Hall-Tipping)](http://v.youku.com/v_show/id_XNjE5NDkyMjk2.html)
+`能源,水,材料` *2014-08-14 12:55:23* ***
+
+介绍了新材料的应用,通过窗户玻璃上提取能量;{WA}
+
 
 ###[移植细胞，而不是器官](http://v.163.com/movie/2012/1/K/7/M77U3FQBJ_M77U3P7K7.html)
 `医学,干细胞` *2014-08-12 12:45:16* ***
