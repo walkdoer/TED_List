@@ -5,6 +5,13 @@
 
 - *loop: 个人觉得值得重复看*
 
+
+###[伟大的领袖如何激励行动(By Simon Sinek)](http://v.163.com/movie/2011/7/0/A/M78065A8E_M7806OF0A.html)[ted](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=zh-cn)
+`激励,启发` *2014-08-14 12:59:18* *****
+
+> Golden Circle
+> why -> what -> how
+
 ###[将能源从电网中解放出来Freeing energy from the grid(By Justin Hall-Tipping)](http://v.youku.com/v_show/id_XNjE5NDkyMjk2.html)
 `能源,水,材料` *2014-08-14 12:55:23* ***
 
