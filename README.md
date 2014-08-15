@@ -5,6 +5,10 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[蘑菇会成为新型塑料吗(By Eben Bayer)](http://v.youku.com/v_show/id_XNjE5NDkxOTQw.html)
+`新材料,环保,地球` *2014-08-15 12:42:54* ***
+
+基于真菌的包装材料
 
 ###[伟大的领袖如何激励行动(By Simon Sinek)](http://v.163.com/movie/2011/7/0/A/M78065A8E_M7806OF0A.html)[ted](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=zh-cn)
 `激励,启发` *2014-08-14 12:59:18* *****
