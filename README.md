@@ -5,6 +5,22 @@
 
 - *loop: 个人觉得值得重复看*
 
+[永不放弃(By Diana Nyad)](http://v.163.com/movie/2014/5/J/N/M9PGG4O5O_M9PJL0RJN.html)
+`勇气,激励` *2014-08-15 13:02:47* *****
+
+- Never, ever give up
+- You can chase your dreams at any age
+- team
+
+一段让我激动和思考话：
+
+> I just went into thinking about this dream, and why, and how. And as I said, when I turned 60, it wasn't about that concrete "Can you do it?" That's the everyday machinations. That's the discipline, and it's the preparation, and there's a pride in that. But I decided to think, as I went along, about, the phrase usually is reaching for the stars, and in my case, it's reaching for the horizon. And when you reach for the horizon, as I've proven, you may not get there, but what a tremendous build of character and spirit that you lay down. What a foundation you lay down in reaching for those horizons.
+
+
+The Henry David Thoreau quote goes, when you achieve your dreams, it's not so much what you get as who you have become in achieving them.
+
+
+
 ###[蘑菇会成为新型塑料吗(By Eben Bayer)](http://v.youku.com/v_show/id_XNjE5NDkxOTQw.html)
 `新材料,环保,地球` *2014-08-15 12:42:54* ***
 
