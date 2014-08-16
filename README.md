@@ -6,7 +6,7 @@
 - *loop: 个人觉得值得重复看*
 
 [永不放弃(By Diana Nyad)](http://v.163.com/movie/2014/5/J/N/M9PGG4O5O_M9PJL0RJN.html)
-`勇气,激励` *2014-08-15 13:02:47* *****
+`勇气,激励` *2014-08-15 13:02:47* ***** loop
 
 - Never, ever give up
 - You can chase your dreams at any age
@@ -511,7 +511,7 @@ So the optimal temporal mix is what you get from the past -- past-positive gives
 > My main message is, if we can redefine apathy, not as some kind of internal syndrome, but as a complex web of cultural barriers that reinforces disengagement, and if we can clearly define, we can clearly identify, what those obstacles are, and then if we can work together collectively to dismantle those obstacles, then anything is possible.
 
 ###[可视化记录婴儿受孕到出生(By Alexander Tsiaras)](http://v.163.com/movie/2012/1/K/U/M8SI7QONP_M8SI7V6KU.html)
-`生命,怀孕,奇迹` *2014-05-18 12:12:48* *****
+`生命,怀孕,奇迹` *2014-05-18 12:12:48* ***** loop
 > 加上配乐，是一个很震撼的视频，足以让我体验到生命的奇迹
 >
 > Even though I am a mathematician, I look at this with marvel of how do these instruction sets not make these mistakes as they build what is us? It's a mystery, it's magic, it's divinity. Then you start to take a look at adult life. Take a look at this little tuft of capillaries. It's just a tiny sub-substructure, microscopic. But basically by the time you're nine months and you're given birth, you have almost 60,000 miles of vessels inside your body. I mean, and only one mile is visible. 59,999 miles that are basically bringing nutrients and taking waste away. The complexity of building that within a single system is, again, beyond any comprehension or any existing mathematics today
@@ -530,7 +530,7 @@ So the optimal temporal mix is what you get from the past -- past-positive gives
 > 信息量太大，需要重新观看做记录
 
 ###[让思想彼此交配](http://v.163.com/movie/2011/7/G/S/M78G97LDH_M78G9G9GS.html)
-`人类,社会,协作` *2014-05-13 13:22:35* **** loop
+`人类,社会,协作` *2014-05-13 13:22:35,2014-08-17 00:00:11* **** loop
 > {{todo}} {WA}
 
 ###[简･方达：生命的第三幕](http://www.ted.com/talks/jane_fonda_life_s_third_act?language=zh-cn)
