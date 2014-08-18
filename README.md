@@ -5,7 +5,18 @@
 
 - *loop: 个人觉得值得重复看*
 
-[永不放弃(By Diana Nyad)](http://v.163.com/movie/2014/5/J/N/M9PGG4O5O_M9PJL0RJN.html)
+###[谈日常生活中的发明(By Saul Griffith)](http://v.163.com/movie/2013/10/6/C/M9AI3HLKL_M9VSE9D6C.html)
+`未来,创意,计算,计算机,编程,认知` **** loop
+
+大部分都听不太懂，有几个概念觉得有意思
+
+Forms follow function
+infomation define form and function
+universe as a computer
+
+{WA}
+
+###[永不放弃(By Diana Nyad)](http://v.163.com/movie/2014/5/J/N/M9PGG4O5O_M9PJL0RJN.html)
 `勇气,激励` *2014-08-15 13:02:47* ***** loop
 
 - Never, ever give up
