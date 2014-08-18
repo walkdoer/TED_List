@@ -5,8 +5,13 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[大自然写(By Frans Lanting)](http://v.163.com/movie/2011/7/L/M/M77RHV3N9_M9VSDHRLM.html?recomend=2)
+`自然` *2014-08-18 13:50:03* ****
+
+一个国家地理的摄影师写给大自然的诗歌
+
 ###[谈日常生活中的发明(By Saul Griffith)](http://v.163.com/movie/2013/10/6/C/M9AI3HLKL_M9VSE9D6C.html)
-`未来,创意,计算,计算机,编程,认知` **** loop
+`未来,创意,计算,计算机,编程,认知`  *2014-08-18 13:30:40* **** loop
 
 大部分都听不太懂，有几个概念觉得有意思
 
