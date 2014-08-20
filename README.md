@@ -5,6 +5,10 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[小提琴和我的灵魂低谷(By 朴智海)](http://v.163.com/movie/2013/9/6/R/M97J0B3PE_M97J0EB6R.html)
+`音乐,小提琴,激励` *2014-08-20 12:54:49* ****
+
+没想到小提琴也可以如此遒劲有力
 
 ###[大自然写(By Frans Lanting)](http://v.163.com/movie/2011/7/L/M/M77RHV3N9_M9VSDHRLM.html?recomend=2)
 `自然` *2014-08-18 13:50:03* ****
