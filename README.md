@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[从赤脚运动中学习(By Bunker Roy)](http://v.qq.com/cover/4/4wfb2txxigdkkmt.html?vid=l0106xp6mwl)
+`启发,改变,太阳能,教育,学习` *2014-08-20 23:26:59* ****
+
+{todo 笔记}
+
 ###[小提琴和我的灵魂低谷(By 朴智海)](http://v.163.com/movie/2013/9/6/R/M97J0B3PE_M97J0EB6R.html)
 `音乐,小提琴,激励` *2014-08-20 12:54:49* ****
 
