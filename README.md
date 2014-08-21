@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[自然界鲜为人知的奇妙作为(By Louie Schwartzberg)](http://v.163.com/movie/2014/7/B/S/M9UR0MGTJ_M9UR4OPBS.html?recomend=2)
+`自然,高速摄像` *2014-08-21 12:46:41* **** loop
+
+在延时摄像，高速摄像，以及电子显微镜下的世界
+
 ###[从赤脚运动中学习(By Bunker Roy)](http://v.qq.com/cover/4/4wfb2txxigdkkmt.html?vid=l0106xp6mwl)
 `启发,改变,太阳能,教育,学习` *2014-08-20 23:26:59* ****
 
