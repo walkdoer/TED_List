@@ -602,10 +602,15 @@ So the optimal temporal mix is what you get from the past -- past-positive gives
 >
 > "All truth is one. In this light, may science and religion endeavor here for the steady evolution of mankind, from darkness to light, from narrowness to broad-mindedness, from prejudice to tolerance. It is the voice of life, which calls us to come and learn." 
 
-###[衡量生命中有价值的东西](http://v.163.com/movie/2011/7/9/N/M78CRKESV_M78CRTP9N.html)
-`幸福, GNH` *2014-04-24 13:44:24* ****
-> {todo} {WA}
+###[衡量生命中有价值的东西(By Chip Conley)](http://v.163.com/movie/2011/7/9/N/M78CRKESV_M78CRTP9N.html)
+`幸福,GNH,价值,时间` *2014-04-24 13:44:24,2014-08-22 22:10:21* **** loop
+{WA}
 
+happiness = wanting what you have / having what you want;  可以简化为  快乐 = 感恩 / 满足感
+
+> happiness is not about haveing what you want, insted, is about wanting what you have.
+
+> Abe Maslow said long ago something you've heard before, but you didn't realize it was him. He said, "If the only tool you have is a hammer, everything starts to look like a nail." We've been fooled by our tool.We've been fooled by our tool. GDP has been our hammer. And our nail has been a 19th- and 20th-century industrial-era model of success. And yet, 64 percent of the world's GDP today is in that intangible industry we call service, the service industry, the industry I'm in. And only 36 percent is in the tangible industries of manufacturing and agriculture. So maybe it's time that we get a bigger toolbox, right? Maybe it's time we get a toolbox that doesn't just count what's easily counted, the tangible in life, but actually counts what we most value, the things that are intangible
 
 
 ###[布莱恩·格林恩谈“弦理论](http://v.163.com/movie/2013/5/R/D/M93FHI8KB_M93FJQJRD.html)
