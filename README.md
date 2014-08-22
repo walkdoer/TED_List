@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[对无神论斗士的讲话(By Richard Dawkins)](http://v.163.com/movie/2014/6/B/F/M9SD9IA5R_M9SDQFSBF.html)
+`无神论,不可知论,宗教` *2014-08-22 12:40:34* ***
+
+{todo 笔记}
+
 ###[自然界鲜为人知的奇妙作为(By Louie Schwartzberg)](http://v.163.com/movie/2014/7/B/S/M9UR0MGTJ_M9UR4OPBS.html?recomend=2)
 `自然,高速摄像` *2014-08-21 12:46:41* **** loop
 
@@ -768,6 +773,15 @@ BLOW MY MIND AWAY
 `无神论` *2014-04-01 12:49:58* **** loop
 > 宗教把身體和智慧結合起來
 
+###[想要快乐？学会感恩](http://open.163.com/movie/2014/3/N/S/M9KC7BRVV_M9KGV2GNS.html)
+`感恩, 快乐` *2014-04-01 12:27:58* ***** loop
+> we have to stop, we have to get quiet, we have to build stop signs into our lifes.
+> enjoy what is given to us.we can also open our heart for the opportunities
+> 革命就是将金字塔倒装，以前在底层的人变成了顶层，曾经在底层，后来变成高层的人重新回到了底层
+> graceful world is a happy world
+> stop look go
+
+
 ###[认为学校扼杀创造力(By Ken Robinson)](http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html) 
 `教育,创新,启发,改革,创造力,学校,学习,启发` *2014-01-20 23:45:14, 2014-07-30 13:02:33* ***** loop
 
@@ -1069,13 +1083,4 @@ BLOW MY MIND AWAY
 > three is a crowd, and a crowd is news.So a movement must be public  
 > If you really care about starting a movement, have the courage to follow and show others how to follow.And when you find a lone nut doing something great, have the guts to be the first one to stand up and join in.  
 >
-
-###[想要快乐？学会感恩](http://open.163.com/movie/2014/3/N/S/M9KC7BRVV_M9KGV2GNS.html)
-`感恩, 快乐` *2014-04-01 12:27:58* ***** loop
-> we have to stop, we have to get quiet, we have to build stop signs into our lifes.
-> enjoy what is given to us.we can also open our heart for the opportunities
-> 革命就是将金字塔倒装，以前在底层的人变成了顶层，曾经在底层，后来变成高层的人重新回到了底层
-> graceful world is a happy world
-> stop look go
-
 
