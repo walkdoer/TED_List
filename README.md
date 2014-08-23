@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[一次教一个孩子(By Shukla Bose)](http://v.163.com/movie/2011/7/3/3/M7AT99H0J_M7ATB8R33.html)
+`教育,印度` *2014-08-23 18:52:23* ***
+
+one child a time {todo note}
+
 ###[对无神论斗士的讲话(By Richard Dawkins)](http://v.163.com/movie/2014/6/B/F/M9SD9IA5R_M9SDQFSBF.html)
 `无神论,不可知论,宗教` *2014-08-22 12:40:34* ***
 
