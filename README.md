@@ -1028,9 +1028,9 @@ BLOW MY MIND AWAY
 > the message for me that about unintended consequences, chaos happen, let's make better use of it.
 
 ###[施德明·萨格米特:创造幸福的7条定律](http://v.youku.com/v_show/id_XNDM3NTM4ODQ4.html?from=y1.5-edu-index-3968-7462.87723.1-1)
-`设计,幸福,工作` *2014-03-22 12:58:21* ****
+`设计,幸福,工作` *2014-03-22 12:58:21, 2014-08-24 12:07:19* ****
 
-> 如何在工作中追求幸福
+如何在工作中追求幸福
 
 
 ###[埃朗·考博林:巧妙地可视化人类活动](http://v.youku.com/v_show/id_XNDM3MjE1Mjgw.html)
