@@ -5,6 +5,17 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[为什么好的领导能给你安全感？(By Simon Sinek)](http://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe?language=zh-cn#t-56543)
+`领导,启发` *2014-08-25 13:07:22* **** loop
+
+> The closest analogy I can give to what a great leader is, is like being a parent. If you think about what being a great parent is, what do you want? What makes a great parent? We want to give our child opportunities, education, discipline them when necessary, all so that they can grow up and achieve more than we could for ourselves. Great leaders want exactly the same thing. They want to provide their people opportunity, education, discipline when necessary, build their self-confidence, give them the opportunity to try and fail, all so that they could achieve more than we could ever imagine for ourselves.
+
+>Leadership is a choice. It is not a rank. I know many people at the seniormost levels of organizations who are absolutely not leaders. They are authorities, and we do what they say because they have authority over us, but we would not follow them. And I know many people who are at the bottoms of organizations who have no authority and they are absolutely leaders, and this is because they have chosen to look after the person to the left of them, and they have chosen to look after the person to the right of them. This is what a leader is.
+
+> We call them leaders because they go first. We call them leaders because they take the risk before anybody else does. We call them leaders because they will choose to sacrifice so that their people may be safe and protected and so their people may gain, and when we do, the natural response is that our people will sacrifice for us. They will give us their blood and sweat and tears to see that their leader's vision comes to life, and when we ask them, "Why would you do that? Why would you give your blood and sweat and tears for that person?" they all say the same thing: "Because they would have done it for me." And isn't that the organization we would all like to work in?
+
+{todo 笔记} {WA}
+
 ###[一位要求学校教育的女孩(By Kakenya Ntaiya)](http://v.163.com/movie/2013/12/E/4/M9E8CR3LM_M9ED4DLE4.html)
 `教育,女性,人权,震撼` *2014-08-23 19:15:41* ***** loop
 
