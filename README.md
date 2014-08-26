@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[Photosynth(By Blaise Agueray Arcas)](http://v.youku.com/v_show/id_XNDcyMTcwNDQ0.html)
+`发明,图片处理` *2014-08-26 13:02:09* ***
+
+将图片与图片之间联系在一起
+
 ###[为什么好的领导能给你安全感？(By Simon Sinek)](http://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe?language=zh-cn#t-56543)
 `领导,启发` *2014-08-25 13:07:22* **** loop
 
