@@ -5,6 +5,10 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[如果我有一个女儿...(By Sarah Kay)](http://v.163.com/movie/2013/4/H/H/M8RTKIUR2_M8S0BLRHH.html)
+`诗歌,激动` *2014-08-27 13:04:52* **** loop
+
+第一次认识口语诗，也第一次领略到其魅力
 
 ###[如何用粘土…和社群盖房子(By Diébédo Francis Kéré)](http://v.163.com/movie/2014/3/L/E/M9KC7HN0C_M9KGVBNLE.html)
 
