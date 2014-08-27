@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+
+###[如何用粘土…和社群盖房子(By Diébédo Francis Kéré)](http://v.163.com/movie/2014/3/L/E/M9KC7HN0C_M9KGVBNLE.html)
+
+这个跟穆钧的中国乡土建筑非常相似，都是用一种低成本的手段来对农村进行优化。不仅仅是建筑，更多的是让农村恢复活力，让社区可以良性循环
+
 ###[Photosynth(By Blaise Agueray Arcas)](http://v.youku.com/v_show/id_XNDcyMTcwNDQ0.html)
 `发明,图片处理` *2014-08-26 13:02:09* ***
 
