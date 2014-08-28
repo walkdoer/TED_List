@@ -8,11 +8,14 @@
 ###[为什么设计师在设计中需要考虑听觉观感(By Julian Treasure)](http://v.163.com/movie/2013/12/F/3/M9DROM7AR_M9E84QUF3.html?recomend=2)
 `听力,噪音,效率,启发` *2014-08-28 12:56:00* ****
 
-良好的听力环境对于一个人的健康，学习工作等有非常大的影响。
+听力环境对于一个人的健康水平，学习工作，社交能力等有非常大的影响。
 
 urban sound planners
 office sound planners
 interior sound designers
+
+
+> design for experience, not for appearance
 
 
 ###[如果我有一个女儿...(By 萨拉·凯)](http://v.163.com/movie/2013/4/H/H/M8RTKIUR2_M8S0BLRHH.html)
