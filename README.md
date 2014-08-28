@@ -5,8 +5,18 @@
 
 - *loop: 个人觉得值得重复看*
 
-###[如果我有一个女儿...(By Sarah Kay)](http://v.163.com/movie/2013/4/H/H/M8RTKIUR2_M8S0BLRHH.html)
-`诗歌,激动` *2014-08-27 13:04:52* **** loop
+###[为什么设计师在设计中需要考虑听觉观感(By Julian Treasure)](http://v.163.com/movie/2013/12/F/3/M9DROM7AR_M9E84QUF3.html?recomend=2)
+`听力,噪音,效率,启发` *2014-08-28 12:56:00* ****
+
+良好的听力环境对于一个人的健康，学习工作等有非常大的影响。
+
+urban sound planners
+office sound planners
+interior sound designers
+
+
+###[如果我有一个女儿...(By 萨拉·凯)](http://v.163.com/movie/2013/4/H/H/M8RTKIUR2_M8S0BLRHH.html)
+`诗歌, 口语诗,激动` *2014-08-27 13:04:52* **** loop
 
 第一次认识口语诗，也第一次领略到其魅力
 
@@ -1126,3 +1136,4 @@ BLOW MY MIND AWAY
 > If you really care about starting a movement, have the courage to follow and show others how to follow.And when you find a lone nut doing something great, have the guts to be the first one to stand up and join in.  
 >
 
+`诗歌,激动` *2014-08-27 13:04:52* **** loop
