@@ -5,6 +5,17 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[我从曼德拉身上学会的事(By Boyd Varty)](http://v.163.com/movie/2014/4/P/7/M9MPLS6O8_M9MRNUPP7.html)
+`非洲,人性` *2014-08-28 23:16:15* ****
+
+Ubuntu:  Ubuntu: I am because of you. Or, people are not people without other people.
+
+演讲者讲了一只大象的故事，其中的一段话：
+
+> 我从牠们身上得到的领悟 让我对ubuntu有更广泛的定义 我相信在神圣的荒野中 我们会有机会 看见自己最良善的特质 透过他人 我们可体认自身的人性 但所有地球生物也能让我们有此体悟 如果非洲有值得分享的地方 那就是更紧密共荣的社会 Ubuntu 确实是非洲的价值观 但我目睹这个价值的精髓 在此形成
+
+> What Elvis and the herd taught me caused me to expand my definition of ubuntu, and I believe that in the cathedral of the wild, we get to see the most beautiful parts of ourselves reflected back at us. And it is not only through other people that we get to experience our humanity but through all the creatures that live on this planet. If Africa has a gift to share, it's a gift of a more collective society. And while it's true that ubuntu is an African idea, what I see is the essence of that value being invented here.
+
 ###[为什么设计师在设计中需要考虑听觉观感(By Julian Treasure)](http://v.163.com/movie/2013/12/F/3/M9DROM7AR_M9E84QUF3.html?recomend=2)
 `听力,噪音,效率,启发` *2014-08-28 12:56:00* ****
 
