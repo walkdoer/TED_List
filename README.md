@@ -5,6 +5,22 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[伊藤 城: 想要革新吗？做一个现在主义者(By Joi Ito)](http://www.ted.com/talks/joi_ito_want_to_innovate_become_a_now_ist?language=zh-cn#t-359107)
+`启发` *2014-09-01 12:50:59* ****
+
+{WA}
+
+
+- learning over education
+- Compass over maps
+- Deploy or die.
+
+> at least in software and services, to go from an MBA-driven innovation model to a designer-engineer-driven innovation model, and it pushed innovation to the edges, to the dorm rooms, to the startups, away from the large institutions, the stodgy old institutions that had the power and the money and the authority
+
+>  learning over education is very near and dear to my heart, but to me, education is what people do to you and learning is what you do to yourself.
+
+> So I think the good news is that even though the world is extremely complex, what you need to do is very simple. I think it's about stopping this notion that you need to plan everything, you need to stock everything, and you need to be so prepared, and focus on being connected, always learning, fully aware, and super present.
+
 ###[行走地球(By John Francis)](http://v.163.com/movie/2008/8/S/C/M82V9VS7G_M9VUGV9SC.html)
 `环保,改变` *2014-08-30 14:13:10* *** loop
 
