@@ -5,6 +5,15 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[聆听，学习...才能领导(By Stanly McChrystal)](http://www.ted.com/talks/stanley_mcchrystal?language=zh-cn#t-442517)
+`启发,领导,团队` *2014-09-02 12:57:46* *** loop
+
+缺少领导经验，很多点都没有听懂，但是有几句话觉得在理：
+>  leaders can let you fail and yet not let you be a failure
+> You can get knocked down, and it hurts and it leaves scars. But if you're a leader, the people you've counted on will help you up. And if you're a leader, the people who count on you need you on your feet.
+
+{todo 完善笔记} {WA}
+
 ###[伊藤 城: 想要革新吗？做一个现在主义者(By Joi Ito)](http://www.ted.com/talks/joi_ito_want_to_innovate_become_a_now_ist?language=zh-cn#t-359107)
 `启发` *2014-09-01 12:50:59* ****
 
