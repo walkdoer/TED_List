@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[南布鲁克斯的环保教师(By Stephen Ritz)](http://v.163.com/movie/2014/1/K/4/M9G1BF93N_M9G3QKVK4.html)
+`环保,城市,种植` *2014-09-03 13:09:49* ****
+
+Green Bronx Machine:http://greenbronxmachine.org/
+
 ###[聆听，学习...才能领导(By Stanly McChrystal)](http://www.ted.com/talks/stanley_mcchrystal?language=zh-cn#t-442517)
 `启发,领导,团队` *2014-09-02 12:57:46* *** loop
 
