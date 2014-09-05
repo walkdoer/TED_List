@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[开放世界的四原则(By Don Tapscott)](http://www.ted.com/talks/don_tapscott_four_principles_for_the_open_world_1/transcript?language=zh-cn)
+`社会,开放` *2014-09-05 15:45:50* *** 
+
+{WA}
+
 ###[有触觉的假肢(By Todd Kuiken)](http://v.163.com/movie/2014/5/0/F/M9PGE83JO_M9PJFLJ0F.html)
 `生物,医学` *2014-09-05 14:31:19* ***
 
