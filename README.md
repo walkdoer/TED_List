@@ -5,6 +5,14 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[脆弱的力量(By Brené Brown)](http://v.163.com/movie/2012/1/D/U/M8H4A8FC9_M8H4AN7DU.html)[ted](http://www.ted.com/talks/brene_brown_on_vulnerability/transcript?language=zh-cn)
+`心理` *2014-09-09 12:50:09* ***
+
+大部分都没有听懂，不过有句话到倒是符合我目前的思考情景
+{WA}
+
+> You know how blame is described in the research? A way to discharge pain and discomfort
+
 ###[开放世界的四原则(By Don Tapscott)](http://www.ted.com/talks/don_tapscott_four_principles_for_the_open_world_1/transcript?language=zh-cn)
 `社会,开放` *2014-09-05 15:45:50* *** 
 
