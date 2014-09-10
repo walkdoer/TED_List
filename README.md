@@ -5,6 +5,17 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[恩戈奇依维埃拉关于“援助还是贸易”的演讲(By Ngozi Okonjo-Iweala)](http://www.ted.com/talks/ngozi_okonjo_iweala_on_aid_versus_trade?language=zh-cn)
+`非洲` *2014-09-10 13:06:15* ***
+
+
+> And now let me become less sentimental, and say that saving lives -- which some of the aid we get does on this continent -- when you save the life of anyone, a farmer, a teacher, a mother, they are contributing productively into the economy. And as an economist, we can also look at that side of the story. These are people who are productive agents in the economy. So if we save people from HIV/AIDS, if we save them from malaria, it means they can form the base of production for our economy. And by the same token -- as someone said yesterday -- if we don't and they die, their children will become a burden on the economy. So even from an economic standpoint, if we leave the social and the humanitarian, we need to save lives now.
+
+- 基础设施建设的重要性
+- 援助需要更好的规划
+
+
+
 ###[脆弱的力量(By Brené Brown)](http://v.163.com/movie/2012/1/D/U/M8H4A8FC9_M8H4AN7DU.html)[ted](http://www.ted.com/talks/brene_brown_on_vulnerability/transcript?language=zh-cn)
 `心理` *2014-09-09 12:50:09* ***
 
