@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[霍金求道-宇宙苍茫](http://v.163.com/movie/2014/3/G/S/M9L5PNJ2B_M9L5PRVGS.html)
+`宇宙,霍金` *2014-09-11 13:05:23* ***
+
+演讲者本身带来更多的震撼
+
 ###[恩戈奇依维埃拉关于“援助还是贸易”的演讲(By Ngozi Okonjo-Iweala)](http://www.ted.com/talks/ngozi_okonjo_iweala_on_aid_versus_trade?language=zh-cn)
 `非洲` *2014-09-10 13:06:15* ***
 
