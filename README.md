@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[大型在线共同创作(By Luis von Ahn)](http://v.163.com/movie/2011/7/U/3/M92193DTQ_M92199PU3.html)
+`集体智慧` *2014-09-12 13:08:05* ***
+
+利用集体智慧来解决问题
+
 ###[为什么巴士体现了一种民主实践(By Enrique Peñalosa)](http://v.163.com/movie/2014/5/F/N/M9PGG1VG7_M9PJKRTFN.html)
 `城市规划,交通,民主` *2014-09-11 13:09:38* ****
 
