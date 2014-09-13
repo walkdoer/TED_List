@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[开放资源促进文明的蓝图(By 马尔钦·雅库博夫斯基)](http://v.youku.com/v_show/id_XNjMwNDgwMTQ4.html)
+`开源硬件,农业` *2014-09-13 13:11:36* ***
+
+Nothing on earth is as powerful as an idea whose time has come. 世上最强大的力量莫过于应势而生的思想
+
 ###[大型在线共同创作(By Luis von Ahn)](http://v.163.com/movie/2011/7/U/3/M92193DTQ_M92199PU3.html)
 `集体智慧` *2014-09-12 13:08:05* ***
 
