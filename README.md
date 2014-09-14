@@ -49,7 +49,7 @@ Nothing on earth is as powerful as an idea whose time has come. 世上最强大�
 > You know how blame is described in the research? A way to discharge pain and discomfort
 
 ###[开放世界的四原则(By Don Tapscott)](http://www.ted.com/talks/don_tapscott_four_principles_for_the_open_world_1/transcript?language=zh-cn)
-`社会,开放` *2014-09-05 15:45:50* *** 
+`社会,开放` *2014-09-05 15:45:50* ***
 
 {WA}
 
@@ -406,10 +406,13 @@ O’Connell 他认为,这个结果表明,量子力学超越了一切事物之间
 
   
 
-###[宏观历史(By David Christian)](http://v.youku.com/v_show/id_XNDMxNjg2NDg4.html)
-`历史,地球,宇宙,人类,启发` *2014-07-07 13:01:54* *****
+###[宏观历史(By David Christian)](http://v.youku.com/v_show/id_XNDMxNjg2NDg4.html)[网易公开课](http://v.163.com/movie/2013/4/K/S/M93FG764L_M93FHDVKS.html)[ted](http://www.ted.com/talks/david_christian_big_history)
+`历史,地球,宇宙,人类,启发` *2014-07-07 13:01:54,2014-09-14 13:14:57* *****
 
 {WA}
+> Collective Learning it's what makes us different.
+
+> Then 10,000 years ago, exploiting a sudden change in global climate with the end of the last ice age, humans learned to farm. Farming was an energy bonanza. And exploiting that energy, human populations multiplied. Human societies got larger, denser, more interconnected. And then from about 500 years ago, humans began to link up globally through shipping, through trains, through telegraph, through the Internet, until now we seem to form a single global brain of almost seven billion individuals. And that brain is learning at warp speed. And in the last 200 years, something else has happened. We've stumbled on another energy bonanza in fossil fuels. So fossil fuels and collective learning together explain the staggering complexity we see around us.
 
 ###[基于智能手机的迷你机器人](http://v.163.com/movie/2013/3/Q/M/M9239L2Q1_M9239PCQM.html)
 `机器人` *2014-07-03 13:03:00* ***
