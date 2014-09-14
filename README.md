@@ -5,6 +5,10 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[为可持续发展全力以赴(By Steve Howard)](http://www.ted.com/talks/james_patten_the_best_computer_interface_maybe_your_hands?language=zh-cn)
+`可持续发展,宜家`  *2014-09-14 11:36:54* ****
+
+
 ###[开放资源促进文明的蓝图(By 马尔钦·雅库博夫斯基)](http://v.youku.com/v_show/id_XNjMwNDgwMTQ4.html)
 `开源硬件,农业` *2014-09-13 13:11:36* ***
 
