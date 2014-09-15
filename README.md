@@ -25,8 +25,10 @@
 
 > Is being more sustainble what gives you a higher quality of life? I would argue the same thing that makes you more sustainble is what gives you a higher quality of life, and that's living in a walkable neighborhood. So sustainability, which includes our wealth and our health may not be a direct function of our sustainability. But particularly here in America, we are polluting so much because **we're throwing away our time and our money and our lives on the highway**, then these two problems would seem to share the same solution, which is to make our cities more walkable.
 
-###[]()
-``
+###[为什么不能把公民生活托付给市场(By Michael Sandel)](http://open.sina.com.cn/course/id_1029/)
+`民主,市场` *2014-09-15 13:13:36* ****
+
+> 桑德尔请大家诚实思考一个问题：现行的民主社会，是否凡事都可以出售？
 
 
 ###[为可持续发展全力以赴(By Steve Howard)](http://www.ted.com/talks/james_patten_the_best_computer_interface_maybe_your_hands?language=zh-cn)
