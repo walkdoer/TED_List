@@ -5,6 +5,30 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[适宜步行的城市(By Jeff Speck)](http://v.163.com/movie/2014/2/9/J/M9HHVQMTG_M9HN60S9J.html)
+`建筑,城市规划` ***
+
+> Make our city more walkable
+
+对anti-city的另外一个思考
+> 这种现象被称为 “一直把车开到能买得起房的郊区” 家被安置在离市中心和工作越来越远的地方 他们陷在了每天两个，三个 甚至四个小时的通勤上 例如，在加州的中央山谷中 有这么一些社区 在房产泡沫破碎和汽油价格上涨的冲击下,不仅仅是规模减小,而是彻底消亡了.事实上，你可以看到有很多入住率不足一半的社区,想象一下你用所有的家当和贷款买了房 房价不断缩水，你却要花是现在两倍的时间在开车上.
+
+
+好的城市环境对人才的吸引力:
+
+>So on the one hand, a city saves money for its residents by being more walkable and more bikeable, but on the other hand, it also is the cool kind of city that people want to be in these days.
+
+可步行城市的影响：
+- 对健康的影响
+- 对环境的影响
+
+
+> Is being more sustainble what gives you a higher quality of life? I would argue the same thing that makes you more sustainble is what gives you a higher quality of life, and that's living in a walkable neighborhood. So sustainability, which includes our wealth and our health may not be a direct function of our sustainability. But particularly here in America, we are polluting so much because **we're throwing away our time and our money and our lives on the highway**, then these two problems would seem to share the same solution, which is to make our cities more walkable.
+
+###[]()
+``
+
+
 ###[为可持续发展全力以赴(By Steve Howard)](http://www.ted.com/talks/james_patten_the_best_computer_interface_maybe_your_hands?language=zh-cn)
 `可持续发展,宜家`  *2014-09-14 11:36:54* ****
 
