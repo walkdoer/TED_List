@@ -5,6 +5,9 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[纽约街道，从此不再破旧不堪(By Janette Sadik-Khan)](http://v.163.com/movie/2014/2/F/Q/M9HHJ2GHR_M9HN5M6FQ.html)
+`城市改造,城市规划,交通` *2014-09-16 13:02:25* ****
+
 ###[适宜步行的城市(By Jeff Speck)](http://v.163.com/movie/2014/2/9/J/M9HHVQMTG_M9HN60S9J.html)
 `建筑,城市规划` ***
 
@@ -26,7 +29,7 @@
 > Is being more sustainble what gives you a higher quality of life? I would argue the same thing that makes you more sustainble is what gives you a higher quality of life, and that's living in a walkable neighborhood. So sustainability, which includes our wealth and our health may not be a direct function of our sustainability. But particularly here in America, we are polluting so much because **we're throwing away our time and our money and our lives on the highway**, then these two problems would seem to share the same solution, which is to make our cities more walkable.
 
 ###[为什么不能把公民生活托付给市场(By Michael Sandel)](http://open.sina.com.cn/course/id_1029/)
-`民主,市场` *2014-09-15 13:13:36* ****
+`民主,市场` *2014-09-15 00:38:36* ****
 
 > 桑德尔请大家诚实思考一个问题：现行的民主社会，是否凡事都可以出售？
 
