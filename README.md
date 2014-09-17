@@ -5,6 +5,13 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[让我来数据化你的心态(By Hans Rosling)](http://v.youku.com/v_show/id_XMzM5NzQwNTEy.html)
+`贫穷,数据可视化` **** loop
+
+lesson
+1. use dataset to change your mindSet.
+2. The world is converging.
+
 ###[纽约街道，从此不再破旧不堪(By Janette Sadik-Khan)](http://v.163.com/movie/2014/2/F/Q/M9HHJ2GHR_M9HN5M6FQ.html)
 `城市改造,城市规划,交通` *2014-09-16 13:02:25* ****
 
@@ -1212,13 +1219,13 @@ BLOW MY MIND AWAY
 
 > 集体智慧，数据可视化
 
-###[David McCandless: 数据视觉化的美丽之处](http://v.youku.com/v_show/id_XNDM3MjE1NTIw.html)
+###[数据视觉化的美丽之处(By David McCandless)](http://v.youku.com/v_show/id_XNDM3MjE1NTIw.html)
 `数据分析, 数据` *2014-03-24 13:16:04* ****
 
-> TODO
+{WA}
 
 
-###[Emily Pilloton:教授改变世界的设计](http://v.youku.com/v_show/id_XNDM3MjE3MzQ4.html)
+###[教授改变世界的设计(By Emily Pilloton)](http://v.youku.com/v_show/id_XNDM3MjE3MzQ4.html)
 `设计` *2014-03-25 12:48:31* ****
 
 > 小城镇的空洞化，downtowns becoming ghost towns. 用设计来改变这一现状。设计的思路来做慈善。建立农村社区和公共教育。
@@ -1241,15 +1248,16 @@ BLOW MY MIND AWAY
 `科技, 大脑` *2014-03-28 12:57:59*  ***
 > 通过想象（和一点点专注）就来操作虚拟的物体，甚至是真实的电子物体
 
-###[Hans Rosling:以新的视角解读当今世界的贫困问题](http://v.youku.com/v_show/id_XNjE5NDk0ODgw.html?from=y1.2-1-87.3.6-2.1-1-1-5)
+###[以新的视角解读当今世界的贫困问题(By Hans Rosling)](http://v.youku.com/v_show/id_XNjE5NDk0ODgw.html?from=y1.2-1-87.3.6-2.1-1-1-5)
 `贫穷` *2014-03-29 23:10:25* ***
-> Todo watch again
 
-###[James Cameron:<阿凡达>之前的好奇小男孩](http://v.youku.com/v_show/id_XNDE1NjQ5MzUy.html?from=y1.5-edu-index-3968-7462.87725.1-1)
+{WA}
+
+###[<阿凡达>之前的好奇小男孩(By James Cameron)](http://v.youku.com/v_show/id_XNDE1NjQ5MzUy.html?from=y1.5-edu-index-3968-7462.87725.1-1)
 `电影,科技,探险` *2014-03-30 23:28:28* ***
 > 无论你做什么，失败是其中一个选项，但恐惧却不是
 
-###[辛西娅·布雷齐尔:个人机器人的兴起](http://v.youku.com/v_show/id_XNTA1MzA4Mjky.html)
+###[个人机器人的兴起(By 辛西娅·布雷齐尔)](http://v.youku.com/v_show/id_XNTA1MzA4Mjky.html)
 `机器人,科技` *2014-03-31 00:34:04* ***
 > Robots are all about people
 
@@ -1257,18 +1265,18 @@ BLOW MY MIND AWAY
 `快乐, 生活` *2014-03-31 13:10:54* *****
 
 > 减少临终遗憾
-> I wish I hadn't work so hard  
-> I wish I had stay in touch with friends  
-> I wish I had let myself be happier  
-> I wish I'd had courage to express my true self  
+> I wish I hadn't work so hard
+> I wish I had stay in touch with friends
+> I wish I had let myself be happier
+> I wish I'd had courage to express my true self
 > I wish I'd lived a life true to my dream instead of what others expected of me
 > [概念]创伤后精神再生(Post-Traumatic Growth)， 创伤后的提升很多都是临终遗憾的方面版本。
 
-###[Johnny Lee演示Wii遥控器](http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks?language=zh-cn)
+###[演示Wii遥控器(By Johnny Lee)](http://www.ted.com/talks/johnny_lee_demos_wii_remote_hacks?language=zh-cn)
 `科技,DIY` *2014-03-31 20:30:39* ****
 > 低成本技術方案, 實現电子白板，触摸屏和3D观看器
 
-###[德雷克·西弗斯Derek Sivers：如何发起一场运动](http://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=zh-cn)
+###[如何发起一场运动(By Derek Sivers)](http://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=zh-cn)
 `领导` *2014-03-31 20:38:05* ****
 > The first follower is what transforms a lone nut into a leader  
 > three is a crowd, and a crowd is news.So a movement must be public  
