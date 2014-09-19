@@ -5,6 +5,14 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[我们是否主宰自己的决定(By Dan Ariely)](http://open.sina.com.cn/course/id_840/)
+`理性,决策` *2014-09-18 12:57:00* ***
+
+> “谁说人是理性的”一书的作者，行为经济学家Dan Ariely，利用经典视差图象和他那些跟直觉相反（甚至令人震惊）的研究结果，说明我们做决定时，并非自以为那么理性。
+
+人的决策会受到多方因数的影响
+
+
 ###[让我来数据化你的心态(By Hans Rosling)](http://v.youku.com/v_show/id_XMzM5NzQwNTEy.html)
 `贫穷,数据可视化` **** loop
 
