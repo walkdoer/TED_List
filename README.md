@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[炸薯条之迷：你以为社交媒体的“赞”就是单纯的“赞”而已吗(By Jennifer Golbeck)](http://open.163.com/movie/2014/7/K/N/M9UR0CABE_M9UR4L3KN.html)
+`网络,数据分析` *2014-09-22 12:49:54* ***
+
+用户聚类的想法有点启发
+
 ###[我们是否主宰自己的决定(By Dan Ariely)](http://open.sina.com.cn/course/id_840/)
 `理性,决策` *2014-09-18 12:57:00* ***
 
