@@ -5,6 +5,12 @@
 
 - *loop: 个人觉得值得重复看*
 
+
+###[最好的电脑界面是什么呢？也许是你的双手(By James Patten)](http://www.ted.com/talks/james_patten_the_best_computer_interface_maybe_your_hands?language=zh-cn#t-7076)
+`交互设计` *2014-09-24 13:03:39* ***
+
+无屏幕的交互并不新奇，不过演讲者的实现方式很别致,使用小机器人来作为控制器
+
 ###[炸薯条之迷：你以为社交媒体的“赞”就是单纯的“赞”而已吗(By Jennifer Golbeck)](http://open.163.com/movie/2014/7/K/N/M9UR0CABE_M9UR4L3KN.html)
 `网络,数据分析` *2014-09-22 12:49:54* ***
 
