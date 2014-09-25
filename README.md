@@ -6,6 +6,8 @@
 - *loop: 个人觉得值得重复看*
 
 
+
+
 ###[最好的电脑界面是什么呢？也许是你的双手(By James Patten)](http://www.ted.com/talks/james_patten_the_best_computer_interface_maybe_your_hands?language=zh-cn#t-7076)
 `交互设计` *2014-09-24 13:03:39* ***
 
@@ -486,11 +488,12 @@ O’Connell 他认为,这个结果表明,量子力学超越了一切事物之间
 {todo 记笔记}
 
 ###[How to speak so that people want to listen(By Julian Treasure)](https://www.youtube.com/watch?v=eIho2S0ZahI)
-`演讲,技能,启发` *2014-07-02 18:36:44* ****
+`演讲,技能,启发` *2014-07-02 18:36:44,2014-09-25 13:19:43* ****
 
 如何让人听你讲话
 {todo 笔记}
 {WA}
+
 
 
 ###[改造市郊](http://v.youku.com/v_show/id_XNDk4NzY1ODE2.html)
