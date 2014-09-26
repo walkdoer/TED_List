@@ -5,8 +5,12 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[How technology evolves(By Kevin Kelly)](http://v.163.com/movie/2006/11/H/1/M7SP4BDKJ_M7SP4DCH1.html)
+`技术,进化,生物` *2014-09-26 12:44:11* ***
 
-
+{WA}
+Kevin Kelly讲的内容有点难懂
+> what technology want
 
 ###[最好的电脑界面是什么呢？也许是你的双手(By James Patten)](http://www.ted.com/talks/james_patten_the_best_computer_interface_maybe_your_hands?language=zh-cn#t-7076)
 `交互设计` *2014-09-24 13:03:39* ***
