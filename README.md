@@ -5,6 +5,10 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[我的愿望：为商业公开化开启一个新时代(By Charmian Gooch)](http://v.youku.com/v_show/id_XNzg5MzY0NzYw.html)
+`` *2014-09-28 13:05:34* ****
+> My wish is for us to know who owns and controls companies so that they can no longer be used anonymously against the public good. Together let's ignite world opinion, change the law, and launch a new era of openness in business
+
 ###[How technology evolves(By Kevin Kelly)](http://v.163.com/movie/2006/11/H/1/M7SP4BDKJ_M7SP4DCH1.html)
 `技术,进化,生物` *2014-09-26 12:44:11* ***
 
