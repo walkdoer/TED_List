@@ -5,8 +5,19 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[成功的钥匙？毅力(By Angela Lee Duckworth)](http://v.163.com/movie/2013/9/N/Q/M97G1DNUE_M97G1HRNQ.html)
+
+> Grit is passion and perseverance for very long-term goals. Grit is having stamina. Grit is sticking with your future, day in, day out, not just for the week, not just for the month, but for years, and working really hard to make that future a reality. Grit is living life like it's a marathon, not a sprint.
+
+- Growth Mindset: it is the belief that the ability to learn is not fixed, that it can change with your effort
+
+###[Get ready for hybrid thinking(By Ray Kurzweil)](http://v.youku.com/v_show/id_XNzQ2MTk5MTA4.html)
+`技术,未来` *2014-09-29 13:51:38* ***
+
+{WA}
+
 ###[我的愿望：为商业公开化开启一个新时代(By Charmian Gooch)](http://v.youku.com/v_show/id_XNzg5MzY0NzYw.html)
-`` *2014-09-28 13:05:34* ****
+`商业,公司,贪污,犯罪` *2014-09-28 13:05:34* ****
 > My wish is for us to know who owns and controls companies so that they can no longer be used anonymously against the public good. Together let's ignite world opinion, change the law, and launch a new era of openness in business
 
 ###[How technology evolves(By Kevin Kelly)](http://v.163.com/movie/2006/11/H/1/M7SP4BDKJ_M7SP4DCH1.html)
