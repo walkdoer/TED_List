@@ -5,6 +5,13 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[家在何方？(By Pico Iyer)](http://v.163.com/movie/2013/11/B/E/M9C2VN6RP_M9C2VQTBE.html)
+`家,生活` *2014-10-01 22:25:34* **** loop
+
+{WA}
+> But movement, ultimately, only has a meaning if you have a home to go back to. And home, in the end, is of course not just the place where you sleep. It's the place where you stand.
+
+
 ###[成功的钥匙？毅力(By Angela Lee Duckworth)](http://v.163.com/movie/2013/9/N/Q/M97G1DNUE_M97G1HRNQ.html)
 
 > Grit is passion and perseverance for very long-term goals. Grit is having stamina. Grit is sticking with your future, day in, day out, not just for the week, not just for the month, but for years, and working really hard to make that future a reality. Grit is living life like it's a marathon, not a sprint.
