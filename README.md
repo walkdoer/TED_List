@@ -5,6 +5,10 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[How to reinvent the apartment building(By Moshe Safdie)](http://www.ted.com/talks/moshe_safdie_how_to_reinvent_the_apartment_building)
+`建筑,设计,创新` *2014-10-07 22:59:49* ***
+
+
 ###[如何跟压力做朋友(By Kelly McGonigal)](http://v.163.com/movie/2014/3/G/B/M9KC57HHA_M9KGRFOGB.html)
 `压力,健康` *2014-10-01 22:47:22* ****
 
