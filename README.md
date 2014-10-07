@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[我的字体人生(By Matthew Carter)](http://v.163.com/movie/2014/8/3/T/MA1AHBUST_MA1AHGH3T.html)
+`设计,字体` *2014-10-07 23:20:17* **
+
+
+
 ###[How to reinvent the apartment building(By Moshe Safdie)](http://www.ted.com/talks/moshe_safdie_how_to_reinvent_the_apartment_building)
 `建筑,设计,创新` *2014-10-07 22:59:49* ***
 
@@ -22,6 +27,7 @@
 
 
 ###[成功的钥匙？毅力(By Angela Lee Duckworth)](http://v.163.com/movie/2013/9/N/Q/M97G1DNUE_M97G1HRNQ.html)
+`毅力` **
 
 > Grit is passion and perseverance for very long-term goals. Grit is having stamina. Grit is sticking with your future, day in, day out, not just for the week, not just for the month, but for years, and working really hard to make that future a reality. Grit is living life like it's a marathon, not a sprint.
 
