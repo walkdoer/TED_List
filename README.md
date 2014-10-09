@@ -5,6 +5,24 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[食物如何塑造我们的城市(By Carolyn Steel)](http://www.ted.com/talks/carolyn_steel_how_food_shapes_our_cities/transcript?language=zh-cn)
+`城市,食物,启发` *2014-10-09 12:43:20* ****
+
+食物和城市的关系,里面有一些观点对我而言较为新颖
+
+在交通不便的时代，城市的塑造会受到食物来源的影响。而随着交通方式的发展，这种限制就消除了，城市膨胀的速度大大加快
+> what they did to get food was they got in their cars, drove to a box somewhere on the outskirts, came back with a week's worth of shopping, and wondered what on earth to do with it. And this really is the moment when our relationship, both with food and cities, changes completely.
+Here we have food -- that used to be the center, the social core of the city -- at the periphery. It used to be a social event, buying and selling food. Now it's anonymous. We used to cook; now we just add water, or a little bit of an egg if you're making a cake or something. We don't smell food to see if it's okay to eat. We just read the back of a label on a packet. 
+
+####Utopian
+> And here is another very famous "Utopian" vision, that of Ebenezer Howard, "The Garden City." Same idea: series of semi-independent city-states, little blobs of metropolitan stuff with arable land around, joined to one another by railway
+
+#### 本地城市化种植
+>  But networks, markets where food is being grown locally. It's common. It's fresh. It's part of the social life of the city. Because without that, you can't have this kind of place, food that is grown locally and also is part of the landscape, and is not just a zero-sum commodity off in some unseen hell-hole. Cows with a view. Steaming piles of humus. This is basically bringing the whole thing together.
+
+####城乡关系
+> The best image I know of this is from 650 years ago. It's Ambrogio Lorenzetti's "Allegory of Good Government." It's about the relationship between the city and the countryside. And I think the message of this is very clear. If the city looks after the country, the country will look after the city
+
 ###[我的字体人生(By Matthew Carter)](http://v.163.com/movie/2014/8/3/T/MA1AHBUST_MA1AHGH3T.html)
 `设计,字体` *2014-10-07 23:20:17* **
 
