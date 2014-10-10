@@ -5,9 +5,22 @@
 
 - *loop: 个人觉得值得重复看*
 
-###[食物如何塑造我们的城市(By Carolyn Steel)](http://www.ted.com/talks/carolyn_steel_how_food_shapes_our_cities/transcript?language=zh-cn)
-`城市,食物,启发` *2014-10-09 12:43:20* ****
+###[城市改建的故事(By Majora Carter)](http://v.163.com/movie/2012/1/2/4/M7SR0EK0C_M7SR0GG24.html)
+`城市,环境正义,启发,可持续发展` *2014-10-10 12:45:53* **** loop
 
+{WA}
+Majora Carter详细地表述了她在South Bronx为环境正义而斗争的故事, 社区的发展必须依靠社区本身，而不能指望与Government
+`the color of new black is green ` 这个说法给人充满希望的感觉.
+
+Majora的这一段描述，好像就像是在描述中国今天的城市发展
+> Now, why is this story important? Because from a planning perspective, economic degradation begets environmental degradation, which begets social degradation. The disinvestment that began in the 1960s set the stage for all the environmental injustices that were to come. Antiquated zoning and land-use regulations are still used to this day to continue putting polluting facilities in my neighborhood. Are these factors taken into consideration when land-use policy is decided? What costs are associated with these decisions? And who pays? Who profits? Does anything justify what the local community goes through? This was "planning" -- in quotes -- that did not have our best interests in mind.
+
+其中提到了Bogota的市长Enrique Penalosa, `He is my role model`
+
+###[食物如何塑造我们的城市(By Carolyn Steel)](http://www.ted.com/talks/carolyn_steel_how_food_shapes_our_cities/transcript?language=zh-cn)
+`城市,食物,启发` *2014-10-09 12:43:20* **** loop
+
+{WA}
 食物和城市的关系,里面有一些观点对我而言较为新颖
 
 在交通不便的时代，城市的塑造会受到食物来源的影响。而随着交通方式的发展，这种限制就消除了，城市膨胀的速度大大加快
