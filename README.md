@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[认识这位年轻企业家——卡通作者，设计师，活动家(By Maya Penn)](http://v.163.com/movie/2014/9/9/N/MA44TV660_MA47KLH9N.html)
+`企业,创意,启发` *2014-10-12 21:14:23* ****
+
+> We live in a big, diverse and beautiful world, and that makes me even more passionate to save it. But it's never enough to just to get it through your heads about the things that are happening in our world. It takes to get it through your hearts, because when you get it through your heart, that is when movements are sparked. That is when opportunities and innovation are created, and that is why ideas come to life
+
 ###[城市改建的故事(By Majora Carter)](http://v.163.com/movie/2012/1/2/4/M7SR0EK0C_M7SR0GG24.html)
 `城市,环境正义,启发,可持续发展` *2014-10-10 12:45:53* **** loop
 
