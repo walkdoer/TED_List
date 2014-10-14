@@ -5,6 +5,7 @@
 
 - *loop: 个人觉得值得重复看*
 
+
 ###[认识这位年轻企业家——卡通作者，设计师，活动家(By Maya Penn)](http://v.163.com/movie/2014/9/9/N/MA44TV660_MA47KLH9N.html)
 `企业,创意,启发` *2014-10-12 21:14:23* ****
 
@@ -1319,10 +1320,11 @@ BLOW MY MIND AWAY
 > 集体智慧，数据可视化
 
 ###[数据视觉化的美丽之处(By David McCandless)](http://v.youku.com/v_show/id_XNDM3MjE1NTIw.html)
-`数据分析, 数据` *2014-03-24 13:16:04* ****
+`数据分析, 数据, 数据可视化` *2014-03-24 13:16:04, 2014-10-14 13:00:29* ****
 
-{WA}
+> The eye is exquisitely sensitive to patterns in variations in color, shape and pattern. It loves them, and it calls them beautiful. It's the language of the eye. If you combine the language of the eye with the language of the mind, which is about words and numbers and concepts, you start speaking two languages simultaneously, each enhancing the other.
 
+>  visualizing information like this is a form of knowledge compression. It's a way of squeezing an enormous amount of information and understanding into a small space
 
 ###[教授改变世界的设计(By Emily Pilloton)](http://v.youku.com/v_show/id_XNDM3MjE3MzQ4.html)
 `设计` *2014-03-25 12:48:31* ****
