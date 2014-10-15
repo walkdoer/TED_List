@@ -813,7 +813,7 @@ So the optimal temporal mix is what you get from the past -- past-positive gives
  {todo} {WA}
 
 ###[谈开源学习](http://open.163.com/movie/2014/5/7/V/M9PEEPIRD_M9PH2NK7V.html)
-`书籍,协作,分享,知识,Geek` *2014-05-26 12:49:54* ***
+`书籍,协作,分享,知识,Geek` *2014-05-26 12:49:54,2014-10-15 13:08:59* ***
  {todo}
 
 ###[如何令选择变得更加容易](http://v.163.com/movie/2014/4/D/9/M9MS5FGTS_M9MS5UID9.html)
