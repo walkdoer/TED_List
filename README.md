@@ -5,6 +5,10 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[融入本地文化的建筑(By Xavier Vilalta)](http://v.163.com/movie/2014/2/N/4/M9HI6T3DH_M9HN915N4.html?recomend=1)
+`建筑` *2014-10-15 12:45:13* ***
+
+
 
 ###[认识这位年轻企业家——卡通作者，设计师，活动家(By Maya Penn)](http://v.163.com/movie/2014/9/9/N/MA44TV660_MA47KLH9N.html)
 `企业,创意,启发` *2014-10-12 21:14:23* ****
