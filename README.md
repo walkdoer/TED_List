@@ -5,6 +5,10 @@
 
 - *loop: 个人觉得值得重复看*
 
+
+###[李竞寻求左宗棠鸡的由来](http://www.ted.com/talks/jennifer_8_lee_looks_for_general_tso?language=zh-cn)
+`有趣,食物` *2014-10-17 12:45:29* ***
+
 ###[融入本地文化的建筑(By Xavier Vilalta)](http://v.163.com/movie/2014/2/N/4/M9HI6T3DH_M9HN915N4.html?recomend=1)
 `建筑` *2014-10-15 12:45:13* ***
 
