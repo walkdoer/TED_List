@@ -5,6 +5,17 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[“对半开”的同性恋(By iO Tillett Wright)](http://v.163.com/movie/2014/5/M/3/M9PVR7UGG_M9PVRR5M3.html)
+`同性恋,启发` *2014-10-19 16:05:05* ****
+
+
+盒子太少了，人各式各样，不可能用一个少数的几个盒子来归类所有的人。Thinking out of the box.其实也包括不要用盒子去判断和评价他人
+
+> Another interesting thing that I learned from my project and my travels is just what a poor binding agent sexual orientation is. After traveling so much and meeting so many people, let me tell you, there are just as many jerks and sweethearts and Democrats and Republicans and jocks and queens and every other polarization you can possibly think of within the LGBT community as there are within the human race. Aside from the fact that we play with one legal hand tied behind our backs, and once you get past the shared narrative of prejudice and struggle, just being other than straight doesn't necessarily mean that we have anything in common.
+So in the endless proliferation of faces that Self Evident Truths is always becoming, as it hopefully appears across more and more platforms, bus shelters, billboards, Facebook pages, screen savers, perhaps in watching this procession of humanity, something interesting and useful will begin to happen. **Hopefully these categories, these binaries, these over-simplified boxes will begin to become useless and they'll begin to fall away. Because really, they describe nothing that we see and no one that we know and nothing that we are. **What we see are human beings in all their multiplicity. And seeing them makes it harder to deny their humanity. At the very least I hope it makes it harder to deny their human rights.
+So is it me particularly that you would choose to deny the right to housing, the right to adopt children, the right to marriage, the freedom to shop here, live here, buy here? Am I the one that you choose to disown as your child or your brother or your sister or your mother or your father, your neighbor, your cousin, your uncle, the president, your police woman or the fireman? It's too late. Because I already am all of those things. We already are all of those things, and we always have been. So please don't greet us as strangers, greet us as your fellow human beings, period.
+
+
 
 ###[李竞寻求左宗棠鸡的由来](http://www.ted.com/talks/jennifer_8_lee_looks_for_general_tso?language=zh-cn)
 `有趣,食物` *2014-10-17 12:45:29* ***
