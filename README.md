@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[谈反对性奴隶的抗争(By Sunitha Krishnan)](http://v.163.com/movie/2011/7/B/Q/M7AT9CFRF_M7ATBDDBQ.html)
+`性奴隶,震惊` *2014-10-20 12:57:08* **** loop
+
+
+
 ###[“对半开”的同性恋(By iO Tillett Wright)](http://v.163.com/movie/2014/5/M/3/M9PVR7UGG_M9PVRR5M3.html)
 `同性恋,启发` *2014-10-19 16:05:05* ****
 
