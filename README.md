@@ -5,6 +5,11 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[沦为战俘的美国原驻民(By 亚伦·修伊)](http://v.163.com/movie/2010/11/O/K/M77RBS7VJ_M78B07HOK.html)
+`历史,美国,印第安人` *2014-10-21 13:09:09* ***
+
+
+
 ###[谈反对性奴隶的抗争(By Sunitha Krishnan)](http://v.163.com/movie/2011/7/B/Q/M7AT9CFRF_M7ATBDDBQ.html)
 `性奴隶,震惊` *2014-10-20 12:57:08* **** loop
 
