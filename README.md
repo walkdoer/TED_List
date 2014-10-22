@@ -5,6 +5,12 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[一千个不(By Bahia Shehab)](http://v.163.com/movie/2013/8/5/9/M94U1KTT4_M94U1QT59.html)
+`阿拉伯,埃及` *2014-10-22 12:55:33* ***
+
+> 艺术历史学家Bahia Shehab对阿拉伯语中”不“的不同表达形式十分感兴趣。在2011年扫荡埃及的革命中，她在街道上喷洒标语和图像以反抗对独裁者，军国主义和暴力行为。
+> you can crush the flowers,but can not delay the spring coming
+
 ###[沦为战俘的美国原驻民(By 亚伦·修伊)](http://v.163.com/movie/2010/11/O/K/M77RBS7VJ_M78B07HOK.html)
 `历史,美国,印第安人` *2014-10-21 13:09:09* ***
 
