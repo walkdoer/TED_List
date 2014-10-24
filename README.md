@@ -4,6 +4,11 @@
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
 - *loop: 个人觉得值得重复看*
+
+###[公共空间怎样让城市生动起来(Amanda Burden)](http://v.163.com/movie/2014/6/F/B/M9SDMJCA2_M9SDV7QFB.html)
+`城市规划,纽约,公共空间,设计` *2014-10-24 13:57:32* **** loop
+
+
 ###[确保未来食物的每一粒种子(By Cary Fowler )](http://v.163.com/movie/2014/9/E/L/MA47MFC5V_MA4A6BIEL.html)
 `食物,生物,农业,未来` *2014-10-23* ***
 
