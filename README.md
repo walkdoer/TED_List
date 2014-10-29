@@ -5,6 +5,10 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[从时装的自由文化里学到的(By Johanna Blakley)](http://v.163.com/movie/2011/7/H/H/M78FJJI92_M78FJR5HH.html)
+`知识产权,时装` *2014-10-29 12:38:00* ** 
+
+
 ###[解析市郊(By James Howard Kunstler)](http://v.youku.com/v_show/id_XNDg0MjAwNTg0.html)
 `城市规划,市郊` *2014-10-28 12:48:09* ****
 
