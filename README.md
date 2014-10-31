@@ -5,6 +5,10 @@
 
 - *loop: 个人觉得值得重复看*
 
+###[做好准备去面对新的气候情形(Vicki Arroyo)](http://v.163.com/movie/2013/12/E/J/M9FRQC5R2_M9FU4I8EJ.html)
+`气候` *2014-10-31 13:50:58* **
+
+
 ###[从时装的自由文化里学到的(By Johanna Blakley)](http://v.163.com/movie/2011/7/H/H/M78FJJI92_M78FJR5HH.html)
 `知识产权,时装` *2014-10-29 12:38:00* ** 
 
