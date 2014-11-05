@@ -3,6 +3,9 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+###[Paul Romer的全新见解：特别市(By Paul Romer)](http://www.ted.com/talks/paul_romer?language=zh-cn)
+`发展,城市` *2014-11-05 13:46:47* **
+
 ###[城市之歌(By Jaime Lerner)](http://www.ted.com/talks/jaime_lerner_sings_of_the_city?language=zh-cn)
 `城市规划`
 
