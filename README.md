@@ -751,9 +751,10 @@ use knowed knowledge to compute fresh new answers to specific questions.
 sensor actuator
 
 ###[设计改变城市，创意成就舒适](http://v.163.com/movie/2013/2/V/0/M92TDGU04_M92TDNLV0.html)
-`建筑,家居,智能家居,小而精,创意,启发,有趣,城市规划` *2014-06-12 13:02:15* ****
+`建筑,家居,智能家居,小而精,创意,启发,有趣,城市规划` *2014-06-12 13:02:15,2014-11-06 12:47:53* **** loop
 
-{todo} {WA}
+- 工作空间
+- 家居可变形
 
 ###[世界新富豪之兴起](http://v.163.com/movie/2014/3/7/7/M9KC3SLVK_M9KER8I77.html)
 `经济,财富,贫富差距` *2014-06-11 22:28:04* ***
