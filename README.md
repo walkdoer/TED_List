@@ -3,6 +3,11 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+###[布莱恩·史蒂文森：我们需要谈谈不公(By Bryan Stevenson)](http://v.163.com/movie/2013/4/7/K/M93FG764L_M93FH3E7K.html)
+`启发` *2014-11-07 12:46:23* *****
+{WA}
+> I've come to TED because I believe that many of you understand that the moral arc of the universe is long, but it bends toward justice. That we cannot be full evolved human beings until we care about human rights and basic dignity. That all of our survival is tied to the survival of everyone. That our visions of technology and design and entertainment and creativity have to be married with visions of humanity, compassion and justice. And more than anything, for those of you who share that, I've simply come to tell you to keep your eyes on the prize, hold on.
+
 ###[Paul Romer的全新见解：特别市(By Paul Romer)](http://www.ted.com/talks/paul_romer?language=zh-cn)
 `发展,城市` *2014-11-05 13:46:47* **
 
