@@ -3,6 +3,11 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+###[分享有机设计(By Ross Lovegrove)](http://www.ted.com/talks/ross_lovegrove_shares_organic_designs?language=zh-cn)
+`设计,启发` *2014-11-11 12:46:37* **** loop
+
+{WA}
+
 ###[化沙丘为建筑(By Magnus Larsson)](http://www.ted.com/talks/magnus_larsson_turning_dunes_into_architecture?language=zh-cn)
 `建筑,沙漠` *2014-11-10 13:46:36* **
 
