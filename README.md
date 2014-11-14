@@ -3,6 +3,13 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+###[伤害非洲的领导者，和修复非洲的新一代](http://www.ted.com/talks/fred_swaniker_the_leaders_who_ruined_africa_and_the_generation_who_can_fix_it)
+`非洲` *2014-11-14 12:50:07* ***
+
+###[每个孩子都需要一个冠军(By Rita Pierson)](http://v.163.com/movie/2013/2/V/B/M8VU01VG0_M8VU03VVB.html)
+`教育,启发` *2014-11-14 12:37:36* ***
+
+
 ###[收获自然之水的古老智慧(By Anupam Mishra)](http://v.163.com/movie/2014/4/6/O/M9MS841TM_M9NARO26O.html)
 `水,工程` *2014-11-13 12:47:56* ***
 
