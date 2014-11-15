@@ -3,6 +3,16 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+
+###[自然、美与感恩(By Louie Schwartzberg)](http://v.163.com/movie/2009/6/K/7/M9218SJ4I_M921906K7.html)
+`感恩,启发` *2014-11-15 23:22:08* *****  loop
+
+> Elderly Man: You think this is just another day in your life? It's not just another day. It's the one day that is given to you today. It's given to you. It's a gift. It's the only gift that you have right now, and the only appropriate response is gratefulness. If you do nothing else but to cultivate that response to the great gift that this unique day is, if you learn to respond as if it were the first day in your life and the very last day, then you will have spent this day very well.
+Begin by opening your eyes and be surprised that you have eyes you can open, that incredible array of colors that is constantly offered to us for pure enjoyment. Look at the sky. We so rarely look at the sky. We so rarely note how different it is from moment to moment, with clouds coming and going. We just think of the weather, and even with the weather, we don't think of all the many nuances of weather. We just think of good weather and bad weather. This day, right now, has unique weather, maybe a kind that will never exactly in that form come again. That formation of clouds in the sky will never be the same as it is right now. Open your eyes. Look at that.
+Look at the faces of people whom you meet. Each one has an incredible story behind their face, a story that you could never fully fathom, not only their own story, but the story of their ancestors. We all go back so far, and in this present moment, on this day, all the people you meet, all that life from generations and from so many places all over the world flows together and meets you here like a life-giving water, if you only open your heart and drink. (Music)
+Open your heart to the incredible gifts that civilization gives to us. You flip a switch and there is electric light. You turn a faucet and there is warm water and cold water, and drinkable water. It's a gift that millions and millions in the world will never experience.
+So these are just a few of an enormous number of gifts to which we can open your heart. And so I wish you that you will open your heart to all these blessings, and let them flow through you, that everyone whom you will meet on this day will be blessed by you, just by your eyes, by your smile, by your touch, just by your presence. Let the gratefulness overflow into blessing all around you, and then it will really be a good day. (Music)
+
 ###[伤害非洲的领导者，和修复非洲的新一代](http://www.ted.com/talks/fred_swaniker_the_leaders_who_ruined_africa_and_the_generation_who_can_fix_it)
 `非洲` *2014-11-14 12:50:07* ***
 
