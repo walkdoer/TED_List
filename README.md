@@ -3,6 +3,13 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+###[别对我撒谎(By Pamela Meyer)](http://v.163.com/movie/2012/1/L/C/M84QR8J6A_M84QRBELC.html)[ted](http://www.ted.com/talks/pamela_meyer_how_to_spot_a_liar?language=zh-cn)
+`测谎` *2014-11-16 23:26:46* *** loop
+
+{WA}
+
+> Lying's a cooperative act.
+> Look, everyone is willing to give you something. They're ready to give you something for whatever it is they're hungry for. By Henry Oberlander
 
 ###[自然、美与感恩(By Louie Schwartzberg)](http://v.163.com/movie/2009/6/K/7/M9218SJ4I_M921906K7.html)
 `感恩,启发` *2014-11-15 23:22:08* *****  loop
