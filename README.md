@@ -3,6 +3,12 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+
+###[所有人都隐藏些什么。让我们鼓起勇气敞开心扉(By Ash Beckham)](http://www.ted.com/talks/ash_beckham_we_re_all_hiding_something_let_s_find_the_courage_to_open_up?language=zh-cn)
+`同性恋` *2014-11-17 12:37:44* ***
+
+
+
 ###[别对我撒谎(By Pamela Meyer)](http://v.163.com/movie/2012/1/L/C/M84QR8J6A_M84QRBELC.html)[ted](http://www.ted.com/talks/pamela_meyer_how_to_spot_a_liar?language=zh-cn)
 `测谎` *2014-11-16 23:26:46* *** loop
 
