@@ -3,6 +3,11 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+###[谈论积极心理学](http://v.163.com/movie/2012/12/U/C/M8HHB6LDT_M8HHBN1UC.html)
+`心理学,积极心理学` *2014-11-18 12:39:00* **** loop
+
+{todo 笔记}
+{WA}
 
 ###[所有人都隐藏些什么。让我们鼓起勇气敞开心扉(By Ash Beckham)](http://www.ted.com/talks/ash_beckham_we_re_all_hiding_something_let_s_find_the_courage_to_open_up?language=zh-cn)
 `同性恋` *2014-11-17 12:37:44* ***
