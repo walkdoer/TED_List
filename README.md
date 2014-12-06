@@ -3,6 +3,11 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+###[如何逃出教育的死亡谷(By Ken Robinson)](http://v.163.com/movie/2013/11/E/2/M9CFUODJ3_M9CFURKE2.html)
+`教育` ****
+
+{WA}
+
 ###[如何食用我们的地貌(By Pam Warhurst)](http://v.163.com/movie/2014/1/H/3/M9G1BI2KB_M9G3QOUH3.html)
 `农业,社区,创新` *2014-12-03 12:59:00* ****
 
