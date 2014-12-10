@@ -3,6 +3,10 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+###[塞斯-戈丁和他的切片面包(By Seth Godin)](http://v.163.com/movie/2014/3/C/L/M9L5NNNI5_M9L5O9RCL.html)
+`启发` *2014-12-09 12:45:25* ****
+
+{WA}
 
 ###[如何逃出教育的死亡谷(By Ken Robinson)](http://v.163.com/movie/2013/11/E/2/M9CFUODJ3_M9CFURKE2.html)
 `教育` ****
