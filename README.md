@@ -9,6 +9,13 @@
 
 {WA}
 
+###[瓦埃勒·古奈德：埃及革命内幕(By Wael Ghonim)](http://v.163.com/movie/2012/2/H/N/M8NPJPLP0_M8NQCEDHN.html)
+`鼓舞,互联网,自由` *2014-12-10 13:50:00* ***
+
+> My last word to you is a statement I believe in, which Egyptians have proven to be true, that the power of the people is much stronger than the people in power.
+
+{WA}
+
 ###[塞斯-戈丁和他的切片面包(By Seth Godin)](http://v.163.com/movie/2014/3/C/L/M9L5NNNI5_M9L5O9RCL.html)
 `启发` *2014-12-09 12:45:25* ****
 
