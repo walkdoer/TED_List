@@ -4,6 +4,9 @@
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
 
+###[A dance in a hurricane of paper, wind and light(By Aakash Odedra)](http://www.ted.com/talks/aakash_odedra_a_dance_in_a_hurricane_of_paper_wind_and_light#t-582216)
+`艺术,舞蹈,感动` *2014-12-11 12:45:56* ***
+
 ###[让我们收回互联网(By Rebecca MacKinnon)](http://v.163.com/movie/2012/2/1/K/M8NPJPLP0_M8NQCJ21K.html)
 `互联网,自由` *2014-12-10 13:02:27* ***
 
