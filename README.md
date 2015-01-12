@@ -3,6 +3,9 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+###[未来的工作会是什么样(By Andrew Mcafee)](http://v.163.com/movie/2013/11/K/N/M9CG4B81H_M9CG4EHKN.html?recomend=1)
+`启发,未来,工作,创新` *2015-01-12 12:48:58* ****
+
 ###[伊丽莎白·洛塔斯: 记忆的虚构(By Elizabeth Loftus)](http://v.163.com/movie/2013/11/K/K/M9C56G0EN_M9C56ILKK.html)
 `启发,记忆` *2015-01-11 23:00:14* ****
 
