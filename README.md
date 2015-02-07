@@ -3,6 +3,12 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+###[保罗·布鲁姆：快乐的源泉](http://v.163.com/movie/2012/12/5/O/M8HHB6LDT_M8HHBU75O.html)
+`心理学` *2015-02-07 22:15:01* ****
+
+人类是天生的本质主义者，例如真画值钱，而赝品则一文不值。还有对日常事物的感情
+
+> The mind is its own place, and in itself,can make a heaven of hell, a hell of heaven. -- By John Milton
 
 ###[Miguel Nicolelis: Brain-to-brain communication has arrived. How we did it](http://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it)
 `大脑,控制,革命,科技` *2015-01-30 13:00:41* ****
