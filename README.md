@@ -3,6 +3,11 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+###[罗杰·埃伯特：重塑我声](http://open.163.com/movie/2012/1/6/5/M8H4A8FC9_M8H4BER65.html)
+`感动` *2015-02-27 21:29:07* ****
+
+
+
 ###[精神病测试的另类答案](http://www.ted.com/talks/jon_ronson_strange_answers_to_the_psychopath_test)
 `心理学,精神病` *2015-02-08 16:35:27* ***
 
