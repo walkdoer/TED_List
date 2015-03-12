@@ -3,6 +3,14 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+
+###[张美露: 如何作出艰难抉择](http://www.ted.com/talks/ruth_chang_how_to_make_hard_choices/transcript?language=zh-cn)
+`哲学,选择` *2015-03-12 12:32:43*
+
+>  but it's not dictated by reasons given to us. Rather, it's supported by reasons created by us. When we create reasons for ourselves to become this kind of person rather than that, we wholeheartedly become the people that we are. You might say that we become the authors of our own lives.
+
+> Now, people who don't exercise their normative powers in hard choices are drifters. We all know people like that. I drifted into being a lawyer. I didn't put my agency behind lawyering. I wasn't for lawyering. Drifters allow the world to write the story of their lives. They let mechanisms of reward and punishment -- pats on the head, fear, the easiness of an option — to determine what they do.
+
 ###[阿兰·德波顿：温和的成功哲学](http://v.163.com/movie/2015/1/R/T/MAFIF8K9D_MAFILVERT.html)
 `启发` *2015-03-02 12:31:45* ****
 
