@@ -3,6 +3,10 @@
 ----------------------
 *顺序基本是按照观看时间排序，推荐程度使用*标志
 
+### [我的女兒，我的老婆，我們的機器人，對永生的探索](https://www.youtube.com/watch?v=zdM4UIGBpcI) [ted来源](https://www.ted.com/talks/martine_rothblatt_my_daughter_my_wife_our_robot_and_the_quest_for_immortality?language=zh-tw)
+`启发,role_model` *2015-10-31 11:07:40*
+
+里面有非常多有启发的观点，性别也是一种盒子，70亿人其实就是有70亿中独特的性别，从男性到女性是一个连续变化，而不是解剖学意义上的分类。wow。这是一个非常了不起的人。馬蒂娜·羅斯布拉特。天狼星衛星廣播系統創辦人
 
 ###[张美露: 如何作出艰难抉择](http://www.ted.com/talks/ruth_chang_how_to_make_hard_choices/transcript?language=zh-cn)
 `哲学,选择` *2015-03-12 12:32:43*
